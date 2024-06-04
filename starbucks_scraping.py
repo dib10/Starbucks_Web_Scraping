@@ -1,14 +1,10 @@
-import requests
-from bs4 import BeautifulSoup
-from selenium import webdriver
-from time import sleep
+from config import *
+sleep(5)
 
-#configurando o webdriver
-navegador = webdriver.Chrome()
-navegador.get('https://www.starbucks.com')
+# Identificando o cardápio
 
-#request para a pagina
-response = requests.get('https://www.starbucks.com')
-resposta_codigo = response.status_code
-print(resposta_codigo)
+nav_cardapio = navegador.find_element(By.CSS_SELECTOR, '.lgMax-hidden.py3.sideNav___sd5gv')
 
+#debuggando o cardápio, printando o texto
+texto_cardapio = nav_cardapio.text
+print(texto_cardapio)
