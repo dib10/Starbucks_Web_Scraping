@@ -52,7 +52,7 @@ for menu in  data['menus']:
                             product_name = product['name']
                             product_uri = product['uri']
                             dict_product[product_name] = base_url_product + product_uri
-                            print("Product:", product_name)
-                            print("URL:", base_url_product + product_uri)
+                            print("\nProduto:", product_name)
+                            print("URL do Produto:", base_url_product + product_uri)
 
 print(dict_product)
