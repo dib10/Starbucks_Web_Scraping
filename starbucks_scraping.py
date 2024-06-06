@@ -8,29 +8,27 @@ response = requests.get('https://www.starbucks.com/menu')
 # Parseando o HTML
 soup = BeautifulSoup(response.text, 'html.parser')
 
+#abrindo o arquivo json
 with open('menu.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
+    base_url = 'https://www.starbucks.com/menu/'
 
-# Iterar sobre os menus
-for menu in data['menus']:
-    print("Categoria:", menu['name'])
-    
-    # Se houver subcategorias, iterar sobre elas
+# a partir do arquivo json, vamos pegar o nome e a url de cada menu
+#links para cada menu
+
+dict_menu = {}
+
+# Irei armazenar as urls do cardápio em um dicionário, com base no JSON eu extraí o nome base das categorias e complemento a url com o nome da categoria e do subcategoria por exemplo: https://www.starbucks.com/menu/drinks/hot-coffees , hot-coffees é subcategoria do menu drinks.
+
+#nesse caso, 
+for menu in  data['menus']:
+    menu_name = menu['name']
     if 'children' in menu:
         for child in menu['children']:
-            print("- Subcategoria:", child['name'])
+            child_name = child['name']
+            child_url = base_url + menu_name.replace(' ', '-').lower() + '/' + child_name.replace(' ', '-').lower()
+            dict_menu[child_name] = child_url
+            print("Menu:", child_name)
+            print("URL:", child_url)
 
-            # Se houver produtos na subcategoria, iterar sobre eles
-            if 'products' in child:
-                for product in child['products']:
-                    print("-- Produto:", product['name'])
-
-            # Se houver sub-subcategorias, iterar sobre elas
-            if 'children' in child:
-                for subchild in child['children']:
-                    print("-- Sub-subcategoria:", subchild['name'])
-
-                    # Se houver produtos na sub-subcategoria, iterar sobre eles
-                    if 'products' in subchild:
-                        for product in subchild['products']:
-                            print("--- Produto:", product['name'])
+print(dict_menu)
