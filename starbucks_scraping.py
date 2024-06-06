@@ -1,28 +1,36 @@
-from config import *
-sleep(2)
+import requests
+import json
+from bs4 import BeautifulSoup
 
-# Identificando o cardápio
+#request para a pagina
+response = requests.get('https://www.starbucks.com/menu')
 
-from selenium.webdriver.common.action_chains import ActionChains
+# Parseando o HTML
+soup = BeautifulSoup(response.text, 'html.parser')
 
-# Identificando o cardápio
-nav_cardapio = navegador.find_element(By.CSS_SELECTOR, '.lgMax-hidden.py3.sideNav___sd5gv')
+with open('menu.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
 
-itens_cardapio = nav_cardapio.find_elements(By.CSS_SELECTOR, 'li.my3')
+# Iterar sobre os menus
+for menu in data['menus']:
+    print("Categoria:", menu['name'])
+    
+    # Se houver subcategorias, iterar sobre elas
+    if 'children' in menu:
+        for child in menu['children']:
+            print("- Subcategoria:", child['name'])
 
-# Clicando em cada item do cardápio
-for item in itens_cardapio:
-    # Rola a página até o item
-    navegador.execute_script("arguments[0].scrollIntoView();", item)
+            # Se houver produtos na subcategoria, iterar sobre eles
+            if 'products' in child:
+                for product in child['products']:
+                    print("-- Produto:", product['name'])
 
-    # Rolar um pouco para cima
-    navegador.execute_script("window.scrollBy(0, -100);")
+            # Se houver sub-subcategorias, iterar sobre elas
+            if 'children' in child:
+                for subchild in child['children']:
+                    print("-- Sub-subcategoria:", subchild['name'])
 
-    # Clique no item
-    ActionChains(navegador).move_to_element(item).click(item).perform()
-
-    sleep(1)
-    print(navegador.current_url)
-
-
-
+                    # Se houver produtos na sub-subcategoria, iterar sobre eles
+                    if 'products' in subchild:
+                        for product in subchild['products']:
+                            print("--- Produto:", product['name'])
