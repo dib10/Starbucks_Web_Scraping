@@ -1,20 +1,21 @@
 import requests
-import json
 from bs4 import BeautifulSoup
 
 #request para a pagina
-response = requests.get('https://www.starbucks.com/menu')
+response_html = requests.get('https://www.starbucks.com/menu')
 
 # Parseando o HTML
-soup = BeautifulSoup(response.text, 'html.parser')
+soup = BeautifulSoup(response_html.text, 'html.parser')
 
-#abrindo o arquivo json
-with open('menu.json', 'r', encoding='utf-8') as file:
-    data = json.load(file)
-    base_url = 'https://www.starbucks.com/menu'
+base_url = 'https://www.starbucks.com/menu'
+url_json = 'https://www.starbucks.com/bff/ordering/menu'
+response_json = requests.get(url_json)
 
+if response_json.status_code == 200:
+    data = response_json.json()
+    print("JSON carregado com sucesso")
 # a partir do arquivo json, vamos pegar o nome e a url de cada menu
-#links para cada menu
+
 
 dict_menu = {}
 
