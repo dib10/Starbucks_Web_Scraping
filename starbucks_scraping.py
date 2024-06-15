@@ -1,50 +1,49 @@
 import requests
-from bs4 import BeautifulSoup
+import json
 
 # Fazendo a requisição para a página
-response_html = requests.get('https://www.starbucks.com/menu')
-
-# Parseando o HTML (embora neste caso específico não estejamos utilizando o soup)
-soup = BeautifulSoup(response_html.text, 'html.parser')
-
-base_url_menu = 'https://www.starbucks.com/menu' #para complementar a URL dos produtos extraídos
 url_json = 'https://www.starbucks.com/bff/ordering/menu'
 response_json = requests.get(url_json)
 
 if response_json.status_code == 200:
-    data = response_json.json()
+    dados = response_json.json()
     print("JSON carregado com sucesso")
 
     # Função para extrair os dados desejados
     lista_menu = []
-    def extract_data(data):
-        with open('output.txt', 'w', encoding='utf-8') as f:
-            for menu in data.get('menus', []):
-                menu_name = menu.get('name', 'N/A')
-                for categoria in menu.get('children', []):
-                    nome_categoria = categoria.get('name', 'N/A')
-                    for sub_categoria in categoria.get('children', []):
-                        sub_nome_categoria = sub_categoria.get('name', 'N/A')
-                        for produto in sub_categoria.get('products', []):  # Corrigido aqui
-                            nome_produto = produto.get('name', 'N/A')
-                            uri_produto = produto.get('uri', 'N/A')
-                            f.write(f"Categoria: {menu_name}\n")
-                            f.write(f"Subcategoria: {nome_categoria}\n")
-                            f.write(f"Sub-subcategoria: {sub_nome_categoria}\n")
-                            f.write(f"Produto: {nome_produto}\n")
-                            f.write(f"URL do Produto: {base_url_menu + uri_produto}\n")
-                            lista_menu.append({
-                                "Categoria": menu_name,
-                                "Subcategoria": nome_categoria,
-                                "Sub-subcategoria": sub_nome_categoria,
-                                "Produto": nome_produto,
-                                "URL do Produto": base_url_menu + uri_produto
-                            })
-                            f.write("------------------------\n")
+    base_url_menu = 'https://www.starbucks.com/menu'
 
-    extract_data(data)
+    def extrair_dados(dados, categoria=""):
+        for item in dados:
+            nome = item.get('name', 'N/A')
+            if 'products' in item and item['products']:
+                for produto in item['products']:
+                    nome_produto = produto.get('name', 'N/A')
+                    uri_produto = produto.get('uri', 'N/A')
+                    lista_menu.append({
+                        "Categoria": categoria,
+                        "Subcategoria": nome,
+                        "Produto": nome_produto,
+                        "URL do Produto": base_url_menu + uri_produto
+                    })
+            if 'children' in item and item['children']:
+                extrair_dados(item['children'], categoria=nome)
+
+    # Iniciar a extração de dados
+    if 'menus' in dados:
+        extrair_dados(dados['menus'])
+    
+    # Salvando os dados em um arquivo
+    with open('output.txt', 'w', encoding='utf-8') as f:
+        for item in lista_menu:
+            f.write(f"Categoria: {item['Categoria']}\n")
+            f.write(f"Subcategoria: {item['Subcategoria']}\n")
+            f.write(f"Produto: {item['Produto']}\n")
+            f.write(f"URL do Produto: {item['URL do Produto']}\n")
+            f.write("------------------------\n")
+    
     print("Dados extraídos com sucesso")
-    print(lista_menu)
+    # print(lista_menu)
     print(f"Total de itens encontrados: {len(lista_menu)}")
 else:
     print(f"Erro ao carregar JSON: {response_json.status_code}")

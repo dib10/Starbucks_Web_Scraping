@@ -1,1500 +1,1325 @@
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Americanos
+Categoria: Hot Coffees
+Subcategoria: Americanos
 Produto: Caffè Americano
 URL do Produto: https://www.starbucks.com/menu/product/406/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Featured Blonde Roast
 URL do Produto: https://www.starbucks.com/menu/product/873068625/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Featured Medium Roast - Pike Place® Roast
 URL do Produto: https://www.starbucks.com/menu/product/480/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Featured Dark Roast
 URL do Produto: https://www.starbucks.com/menu/product/479/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Decaf Pike Place® Roast
 URL do Produto: https://www.starbucks.com/menu/product/481/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Veranda Blend® Clover Vertica™
 URL do Produto: https://www.starbucks.com/menu/product/2123770/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Featured Dark Roast Caffè Verona®
 URL do Produto: https://www.starbucks.com/menu/product/2123740/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Clover Vertica Colombia Narino Granos De Esperanza Brewed Coffee
 URL do Produto: https://www.starbucks.com/menu/product/2123859/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Starbucks Reserve® Sun-Dried Ethiopia Kayon Mountain Farm Clover Vertica
 URL do Produto: https://www.starbucks.com/menu/product/2123811/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Starbucks Odyssey Blend® Clover Vertica™
 URL do Produto: https://www.starbucks.com/menu/product/2123861/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Caffè Misto
 URL do Produto: https://www.starbucks.com/menu/product/478/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Clover® Starbucks Reserve® Vietnam Da Lat
 URL do Produto: https://www.starbucks.com/menu/product/2121563/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Sun-Dried Ethiopia Kayon Mountain Farm Clover® Starbucks Reserve®
 URL do Produto: https://www.starbucks.com/menu/product/2122576/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Clover® Malawi Sable Farms Starbucks Reserve®
 URL do Produto: https://www.starbucks.com/menu/product/2121958/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Guatemala Huehuetenango Clover® Starbucks Reserve®
 URL do Produto: https://www.starbucks.com/menu/product/2123363/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Brewed Coffees
+Categoria: Hot Coffees
+Subcategoria: Brewed Coffees
 Produto: Clover® Starbucks Reserve® Rwanda Sholi
 URL do Produto: https://www.starbucks.com/menu/product/2123757/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Cappuccinos
+Categoria: Hot Coffees
+Subcategoria: Cappuccinos
 Produto: Cappuccino
 URL do Produto: https://www.starbucks.com/menu/product/409/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Espresso Shots
+Categoria: Hot Coffees
+Subcategoria: Espresso Shots
 Produto: Espresso
 URL do Produto: https://www.starbucks.com/menu/product/410/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Espresso Shots
+Categoria: Hot Coffees
+Subcategoria: Espresso Shots
 Produto: Espresso Con Panna
 URL do Produto: https://www.starbucks.com/menu/product/411/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Flat Whites
+Categoria: Hot Coffees
+Subcategoria: Flat Whites
 Produto: Flat White
 URL do Produto: https://www.starbucks.com/menu/product/565/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Flat Whites
+Categoria: Hot Coffees
+Subcategoria: Flat Whites
 Produto: Honey Almondmilk Flat White
 URL do Produto: https://www.starbucks.com/menu/product/2123158/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Lattes
+Categoria: Hot Coffees
+Subcategoria: Lattes
 Produto: Lavender Oatmilk Latte
 URL do Produto: https://www.starbucks.com/menu/product/2123829/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Lattes
+Categoria: Hot Coffees
+Subcategoria: Lattes
 Produto: Oleato™ Caffé Latte with Oatmilk
 URL do Produto: https://www.starbucks.com/menu/product/2123744/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Lattes
+Categoria: Hot Coffees
+Subcategoria: Lattes
 Produto: Caffè Latte
 URL do Produto: https://www.starbucks.com/menu/product/407/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Lattes
+Categoria: Hot Coffees
+Subcategoria: Lattes
 Produto: Cinnamon Dolce Latte
 URL do Produto: https://www.starbucks.com/menu/product/414/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Lattes
+Categoria: Hot Coffees
+Subcategoria: Lattes
 Produto: Starbucks® Blonde Vanilla Latte
 URL do Produto: https://www.starbucks.com/menu/product/2122164/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Macchiatos
+Categoria: Hot Coffees
+Subcategoria: Macchiatos
 Produto: Caramel Macchiato
 URL do Produto: https://www.starbucks.com/menu/product/413/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Macchiatos
+Categoria: Hot Coffees
+Subcategoria: Macchiatos
 Produto: Espresso Macchiato
 URL do Produto: https://www.starbucks.com/menu/product/412/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Mochas
+Categoria: Hot Coffees
+Subcategoria: Mochas
 Produto: Caffè Mocha
 URL do Produto: https://www.starbucks.com/menu/product/408/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Mochas
+Categoria: Hot Coffees
+Subcategoria: Mochas
 Produto: White Chocolate Mocha
 URL do Produto: https://www.starbucks.com/menu/product/420/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Coffee Travelers
+Categoria: Hot Coffees
+Subcategoria: Coffee Travelers
 Produto: Coffee Traveler - Veranda Blend®
 URL do Produto: https://www.starbucks.com/menu/product/873068654/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Coffee Travelers
+Categoria: Hot Coffees
+Subcategoria: Coffee Travelers
 Produto: Coffee Traveler - Dark Roast
 URL do Produto: https://www.starbucks.com/menu/product/873068656/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Coffee Travelers
+Categoria: Hot Coffees
+Subcategoria: Coffee Travelers
 Produto: Coffee Traveler - Pike Place® Roast
 URL do Produto: https://www.starbucks.com/menu/product/873068655/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Coffees
-Sub-subcategoria: Coffee Travelers
+Categoria: Hot Coffees
+Subcategoria: Coffee Travelers
 Produto: Coffee Traveler - Decaf Pike Place® Roast
 URL do Produto: https://www.starbucks.com/menu/product/873068657/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Cold Brews
 Produto: White Chocolate Macadamia Cream Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2123758/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Cold Brews
 Produto: Cinnamon Caramel Cream Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2123736/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Cold Brews
 Produto: Salted Caramel Cream Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2122795/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Cold Brews
 Produto: Chocolate Cream Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2123644/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Cold Brews
 Produto: Vanilla Sweet Cream Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2121859/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Cold Brews
 Produto: Starbucks® Cold Brew Coffee
 URL do Produto: https://www.starbucks.com/menu/product/2121255/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Nitro Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Nitro Cold Brews
 Produto: Cinnamon Caramel Cream Nitro Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2123734/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Nitro Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Nitro Cold Brews
 Produto: Nitro Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2121912/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Nitro Cold Brews
+Categoria: Cold Coffees
+Subcategoria: Nitro Cold Brews
 Produto: Vanilla Sweet Cream Nitro Cold Brew
 URL do Produto: https://www.starbucks.com/menu/product/2122237/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Americano
+Categoria: Cold Coffees
+Subcategoria: Iced Americano
 Produto: Iced Caffè Americano
 URL do Produto: https://www.starbucks.com/menu/product/406/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Coffees
+Categoria: Cold Coffees
+Subcategoria: Iced Coffees
 Produto: Starbucks® Iced Coffee Blend
 URL do Produto: https://www.starbucks.com/menu/product/422/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Coffees
+Categoria: Cold Coffees
+Subcategoria: Iced Coffees
 Produto: Starbucks® Iced Coffee Blend Clover Vertica™
 URL do Produto: https://www.starbucks.com/menu/product/2123863/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Coffees
+Categoria: Cold Coffees
+Subcategoria: Iced Coffees
 Produto: Iced Espresso
 URL do Produto: https://www.starbucks.com/menu/product/410/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Shaken Espresso
+Categoria: Cold Coffees
+Subcategoria: Iced Shaken Espresso
 Produto: Iced Hazelnut Oatmilk Shaken Espresso
 URL do Produto: https://www.starbucks.com/menu/product/2123805/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Shaken Espresso
+Categoria: Cold Coffees
+Subcategoria: Iced Shaken Espresso
 Produto: Iced Brown Sugar Oatmilk Shaken Espresso
 URL do Produto: https://www.starbucks.com/menu/product/2123431/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Shaken Espresso
+Categoria: Cold Coffees
+Subcategoria: Iced Shaken Espresso
 Produto: Oleato Golden Foam™ Iced Shaken Espresso with Toffeenut
 URL do Produto: https://www.starbucks.com/menu/product/2123803/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Shaken Espresso
+Categoria: Cold Coffees
+Subcategoria: Iced Shaken Espresso
 Produto: Iced Shaken Espresso
 URL do Produto: https://www.starbucks.com/menu/product/2123425/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Flat Whites
+Categoria: Cold Coffees
+Subcategoria: Iced Flat Whites
 Produto: Iced Flat White
 URL do Produto: https://www.starbucks.com/menu/product/565/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Flat Whites
+Categoria: Cold Coffees
+Subcategoria: Iced Flat Whites
 Produto: Iced Honey Almondmilk Flat White
 URL do Produto: https://www.starbucks.com/menu/product/2123158/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Lattes
+Categoria: Cold Coffees
+Subcategoria: Iced Lattes
 Produto: Iced Lavender Oatmilk Latte
 URL do Produto: https://www.starbucks.com/menu/product/2123828/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Lattes
+Categoria: Cold Coffees
+Subcategoria: Iced Lattes
 Produto: Iced Starbucks® Blonde Vanilla Latte
 URL do Produto: https://www.starbucks.com/menu/product/2122164/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Lattes
+Categoria: Cold Coffees
+Subcategoria: Iced Lattes
 Produto: Iced Caffè Latte
 URL do Produto: https://www.starbucks.com/menu/product/407/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Lattes
+Categoria: Cold Coffees
+Subcategoria: Iced Lattes
 Produto: Iced Cinnamon Dolce Latte
 URL do Produto: https://www.starbucks.com/menu/product/414/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Macchiatos
+Categoria: Cold Coffees
+Subcategoria: Iced Macchiatos
 Produto: Iced Caramel Macchiato
 URL do Produto: https://www.starbucks.com/menu/product/413/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Mochas
+Categoria: Cold Coffees
+Subcategoria: Iced Mochas
 Produto: Iced White Chocolate Mocha
 URL do Produto: https://www.starbucks.com/menu/product/420/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Cold Coffees
-Sub-subcategoria: Iced Mochas
+Categoria: Cold Coffees
+Subcategoria: Iced Mochas
 Produto: Iced Caffè Mocha
 URL do Produto: https://www.starbucks.com/menu/product/408/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Seasonal Exclusives
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Seasonal Exclusives
 Produto: Summer-Berry Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123854/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Seasonal Exclusives
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Seasonal Exclusives
 Produto: Summer Skies Drink Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123856/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Seasonal Exclusives
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Seasonal Exclusives
 Produto: Summer-Berry Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123855/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Strawberry Açaí Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2122677/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2122726/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123676/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Spicy Strawberry
 URL do Produto: https://www.starbucks.com/menu/product/2123841/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Spicy Dragonfruit
 URL do Produto: https://www.starbucks.com/menu/product/2123833/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Frozen Strawberry Açaí Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123766/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Spicy Pineapple
 URL do Produto: https://www.starbucks.com/menu/product/2123839/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Frozen Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123768/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Lemonades and Frozen
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Lemonades and Frozen
 Produto: Frozen Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123767/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Coconutmilk Collection
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Coconutmilk Collection
 Produto: Pink Drink Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2122275/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Coconutmilk Collection
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Coconutmilk Collection
 Produto: Dragon Drink® Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2122756/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Coconutmilk Collection
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Coconutmilk Collection
 Produto: Paradise Drink Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123674/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Coconutmilk Collection
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Coconutmilk Collection
 Produto: Dragon Drink® Starbucks Refreshers® Beverage with Oleato Golden Foam™
 URL do Produto: https://www.starbucks.com/menu/product/2123782/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Coconutmilk Collection
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Coconutmilk Collection
 Produto: Paradise Drink Starbucks Refreshers® Beverage with Oleato Golden Foam™
 URL do Produto: https://www.starbucks.com/menu/product/2123779/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Classics
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Classics
 Produto: Strawberry Açaí Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2121342/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Classics
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Classics
 Produto: Mango Dragonfruit Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2122725/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Starbucks Refreshers® Beverages
-Sub-subcategoria: Classics
+Categoria: Starbucks Refreshers® Beverages
+Subcategoria: Classics
 Produto: Pineapple Passionfruit Starbucks Refreshers® Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123675/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Mocha Cookie Crumble Frappuccino®
 URL do Produto: https://www.starbucks.com/menu/product/956/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Caramel Ribbon Crunch Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/1044/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Espresso Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/500/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Caffè Vanilla Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/423/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Caramel Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/424/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Coffee Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/483/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Mocha Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/426/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: Java Chip Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/425/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Coffee Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Coffee Frappuccino®
 Produto: White Chocolate Mocha Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/428/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Lavender Crème Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2123827/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Chocolate Cookie Crumble Crème Frappuccino®
 URL do Produto: https://www.starbucks.com/menu/product/957/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/1062/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Strawberry Crème Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/2122724/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Chai Crème Frappuccino®
 URL do Produto: https://www.starbucks.com/menu/product/438/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Double Chocolaty Chip Crème Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/435/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Matcha Crème Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/439/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: Vanilla Bean Crème Frappuccino® Blended Crème
 URL do Produto: https://www.starbucks.com/menu/product/440/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Frappuccino® Blended Beverages
-Sub-subcategoria: Creme Frappuccino®
+Categoria: Frappuccino® Blended Beverages
+Subcategoria: Creme Frappuccino®
 Produto: White Chocolate Crème Frappuccino® Blended Beverage
 URL do Produto: https://www.starbucks.com/menu/product/441/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Black Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Black Teas
 Produto: Iced Black Tea
 URL do Produto: https://www.starbucks.com/menu/product/457/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Black Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Black Teas
 Produto: Iced Black Tea Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/458/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Black Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Black Teas
 Produto: Iced Royal English Breakfast Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/465/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Black Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Black Teas
 Produto: Iced London Fog Latte
 URL do Produto: https://www.starbucks.com/menu/product/477/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Chai Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Chai Teas
 Produto: Iced Chai Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/466/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Chai Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Chai Teas
 Produto: Iced Chai Tea Latte with Oleato Golden Foam™
 URL do Produto: https://www.starbucks.com/menu/product/2123780/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Lavender Cream Oatmilk Matcha
 URL do Produto: https://www.starbucks.com/menu/product/2123825/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Peach Green Tea
 URL do Produto: https://www.starbucks.com/menu/product/2123077/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Peach Green Tea Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/2123074/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Matcha Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/468/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Green Tea
 URL do Produto: https://www.starbucks.com/menu/product/459/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Green Tea Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/460/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Matcha Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/2122376/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Green Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Green Teas
 Produto: Iced Matcha Tea Latte with Oleato Golden Foam™
 URL do Produto: https://www.starbucks.com/menu/product/2123781/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Herbal Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Herbal Teas
 Produto: Iced Passion Tango® Tea
 URL do Produto: https://www.starbucks.com/menu/product/461/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Iced Herbal Teas
+Categoria: Iced Tea and Lemonade
+Subcategoria: Iced Herbal Teas
 Produto: Iced Passion Tango® Tea Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/462/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Lemonades
+Categoria: Iced Tea and Lemonade
+Subcategoria: Lemonades
 Produto: Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/873068639/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Iced Tea and Lemonade
-Sub-subcategoria: Lemonades
+Categoria: Iced Tea and Lemonade
+Subcategoria: Lemonades
 Produto: Blended Strawberry Lemonade
 URL do Produto: https://www.starbucks.com/menu/product/873068641/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Chai Teas
+Categoria: Hot Teas
+Subcategoria: Chai Teas
 Produto: Chai Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/466/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Chai Teas
+Categoria: Hot Teas
+Subcategoria: Chai Teas
 Produto: Chai Tea
 URL do Produto: https://www.starbucks.com/menu/product/2122273/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Black Teas
+Categoria: Hot Teas
+Subcategoria: Black Teas
 Produto: Earl Grey Tea
 URL do Produto: https://www.starbucks.com/menu/product/450/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Black Teas
+Categoria: Hot Teas
+Subcategoria: Black Teas
 Produto: Teavana® London Fog Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/477/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Black Teas
+Categoria: Hot Teas
+Subcategoria: Black Teas
 Produto: Royal English Breakfast Tea
 URL do Produto: https://www.starbucks.com/menu/product/446/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Black Teas
+Categoria: Hot Teas
+Subcategoria: Black Teas
 Produto: Royal English Breakfast Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/465/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Green Teas
+Categoria: Hot Teas
+Subcategoria: Green Teas
 Produto: Emperor’s Clouds & Mist®
 URL do Produto: https://www.starbucks.com/menu/product/873068751/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Green Teas
+Categoria: Hot Teas
+Subcategoria: Green Teas
 Produto: Matcha Tea Latte
 URL do Produto: https://www.starbucks.com/menu/product/468/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Green Teas
+Categoria: Hot Teas
+Subcategoria: Green Teas
 Produto: Honey Citrus Mint Tea
 URL do Produto: https://www.starbucks.com/menu/product/2122274/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Hot Teas
-Sub-subcategoria: Herbal Teas
+Categoria: Hot Teas
+Subcategoria: Herbal Teas
 Produto: Mint Majesty®
 URL do Produto: https://www.starbucks.com/menu/product/873068754/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Hot Chocolates
+Categoria: Milk, Juice & More
+Subcategoria: Hot Chocolates
 Produto: Hot Chocolate
 URL do Produto: https://www.starbucks.com/menu/product/471/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Hot Chocolates
+Categoria: Milk, Juice & More
+Subcategoria: Hot Chocolates
 Produto: White Hot Chocolate
 URL do Produto: https://www.starbucks.com/menu/product/472/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Juice
+Categoria: Milk, Juice & More
+Subcategoria: Juice
 Produto: Caramel Apple Spice
 URL do Produto: https://www.starbucks.com/menu/product/475/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Juice
+Categoria: Milk, Juice & More
+Subcategoria: Juice
 Produto: Steamed Apple Juice
 URL do Produto: https://www.starbucks.com/menu/product/489/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Milk & Steamers
+Categoria: Milk, Juice & More
+Subcategoria: Milk & Steamers
 Produto: Cold Milk
 URL do Produto: https://www.starbucks.com/menu/product/490/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Milk & Steamers
+Categoria: Milk, Juice & More
+Subcategoria: Milk & Steamers
 Produto: Steamed Milk
 URL do Produto: https://www.starbucks.com/menu/product/747/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Milk, Juice & More
-Sub-subcategoria: Milk & Steamers
+Categoria: Milk, Juice & More
+Subcategoria: Milk & Steamers
 Produto: Vanilla Crème
 URL do Produto: https://www.starbucks.com/menu/product/873068652/hot
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: Spindrift® Lemon Sparkling Water
 URL do Produto: https://www.starbucks.com/menu/product/2123858/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: Spindrift® Raspberry Lime Sparkling Water
 URL do Produto: https://www.starbucks.com/menu/product/2122638/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: Spindrift® Grapefruit Sparkling Water
 URL do Produto: https://www.starbucks.com/menu/product/2122640/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: Ethos® Bottled Water
 URL do Produto: https://www.starbucks.com/menu/product/873068636/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: DASANI Bottled Water
 URL do Produto: https://www.starbucks.com/menu/product/2123597/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: Hawai'i Volcanic Water
 URL do Produto: https://www.starbucks.com/menu/product/2123023/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Water and Sparkling
+Categoria: Bottled Beverages
+Subcategoria: Water and Sparkling
 Produto: Cup of Water
 URL do Produto: https://www.starbucks.com/menu/product/873068670/iced
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Protein and Milk
+Categoria: Bottled Beverages
+Subcategoria: Protein and Milk
 Produto: Koia® Cacao Bean Protein Shake
 URL do Produto: https://www.starbucks.com/menu/product/2123775/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Protein and Milk
+Categoria: Bottled Beverages
+Subcategoria: Protein and Milk
 Produto: Koia® Vanilla Bean Protein Shake
 URL do Produto: https://www.starbucks.com/menu/product/2123777/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Protein and Milk
+Categoria: Bottled Beverages
+Subcategoria: Protein and Milk
 Produto: Horizon® Chocolate Organic Milk
 URL do Produto: https://www.starbucks.com/menu/product/2121286/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Protein and Milk
+Categoria: Bottled Beverages
+Subcategoria: Protein and Milk
 Produto: Horizon® Organic Lowfat Milk Box
 URL do Produto: https://www.starbucks.com/menu/product/2121281/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Juice
+Categoria: Bottled Beverages
+Subcategoria: Juice
 Produto: Starbucks™ Baya Energy Mango Guava
 URL do Produto: https://www.starbucks.com/menu/product/2123631/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Juice
+Categoria: Bottled Beverages
+Subcategoria: Juice
 Produto: Evolution Fresh® Organic Defense Up®
 URL do Produto: https://www.starbucks.com/menu/product/2122702/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Juice
+Categoria: Bottled Beverages
+Subcategoria: Juice
 Produto: Evolution Fresh® Orange
 URL do Produto: https://www.starbucks.com/menu/product/2122701/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Juice
+Categoria: Bottled Beverages
+Subcategoria: Juice
 Produto: Evolution Fresh® Organic Super Fruit Greens
 URL do Produto: https://www.starbucks.com/menu/product/2122699/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Juice
+Categoria: Bottled Beverages
+Subcategoria: Juice
 Produto: Tree Top Apple Juice Box
 URL do Produto: https://www.starbucks.com/menu/product/873068637/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Juice
+Categoria: Bottled Beverages
+Subcategoria: Juice
 Produto: Starbucks™ Baya Energy Raspberry Lime
 URL do Produto: https://www.starbucks.com/menu/product/2123633/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Kombucha
+Categoria: Bottled Beverages
+Subcategoria: Kombucha
 Produto: Brew DR. Island Mango Kombucha
 URL do Produto: https://www.starbucks.com/menu/product/2123778/packaged
 ------------------------
-Categoria: Drinks
-Subcategoria: Bottled Beverages
-Sub-subcategoria: Kombucha
+Categoria: Bottled Beverages
+Subcategoria: Kombucha
 Produto: Brew DR. Superberry Kombucha
 URL do Produto: https://www.starbucks.com/menu/product/2123776/packaged
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Chicken, Maple Butter & Egg Sandwich
 URL do Produto: https://www.starbucks.com/menu/product/2123672/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Bacon, Sausage & Egg Wrap
 URL do Produto: https://www.starbucks.com/menu/product/2123181/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Impossible™ Breakfast Sandwich
 URL do Produto: https://www.starbucks.com/menu/product/2123236/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Bacon, Gouda & Egg Sandwich
 URL do Produto: https://www.starbucks.com/menu/product/369/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Double-Smoked Bacon, Cheddar & Egg Sandwich
 URL do Produto: https://www.starbucks.com/menu/product/2121219/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Turkey Bacon, Cheddar & Egg White Sandwich
 URL do Produto: https://www.starbucks.com/menu/product/368/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Sausage, Cheddar & Egg Sandwich
 URL do Produto: https://www.starbucks.com/menu/product/367/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Spinach, Feta & Egg White Wrap
 URL do Produto: https://www.starbucks.com/menu/product/371/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Breakfast Sandwiches & Wraps
+Categoria: Hot Breakfast
+Subcategoria: Breakfast Sandwiches & Wraps
 Produto: Avocado Spread
 URL do Produto: https://www.starbucks.com/menu/product/2122257/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Bakes & Egg Bites
+Categoria: Hot Breakfast
+Subcategoria: Bakes & Egg Bites
 Produto: Potato, Cheddar & Chive Bakes
 URL do Produto: https://www.starbucks.com/menu/product/2123269/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Bakes & Egg Bites
+Categoria: Hot Breakfast
+Subcategoria: Bakes & Egg Bites
 Produto: Kale & Mushroom Egg Bites
 URL do Produto: https://www.starbucks.com/menu/product/2123401/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Bakes & Egg Bites
+Categoria: Hot Breakfast
+Subcategoria: Bakes & Egg Bites
 Produto: Bacon & Gruyère Egg Bites
 URL do Produto: https://www.starbucks.com/menu/product/2122116/single
 ------------------------
-Categoria: Food
-Subcategoria: Hot Breakfast
-Sub-subcategoria: Bakes & Egg Bites
+Categoria: Hot Breakfast
+Subcategoria: Bakes & Egg Bites
 Produto: Egg White & Roasted Red Pepper Egg Bites
 URL do Produto: https://www.starbucks.com/menu/product/2122117/single
 ------------------------
 Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Bagels
+Subcategoria: Oatmeal & Yogurt
+Produto: Rolled & Steel-Cut Oatmeal
+URL do Produto: https://www.starbucks.com/menu/product/301/single
+------------------------
+Categoria: Food
+Subcategoria: Oatmeal & Yogurt
+Produto: Berry Trio Parfait
+URL do Produto: https://www.starbucks.com/menu/product/2122192/single
+------------------------
+Categoria: Bakery
+Subcategoria: Bagels
 Produto: Plain Bagel
 URL do Produto: https://www.starbucks.com/menu/product/321/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Bagels
+Categoria: Bakery
+Subcategoria: Bagels
 Produto: Everything Bagel
 URL do Produto: https://www.starbucks.com/menu/product/324/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Bagels
+Categoria: Bakery
+Subcategoria: Bagels
 Produto: Avocado Spread
 URL do Produto: https://www.starbucks.com/menu/product/2122257/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cake Pops
+Categoria: Bakery
+Subcategoria: Cake Pops
 Produto: Orange Cream Cake Pop
 URL do Produto: https://www.starbucks.com/menu/product/2123851/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cake Pops
+Categoria: Bakery
+Subcategoria: Cake Pops
 Produto: Cookies & Cream Cake Pop
 URL do Produto: https://www.starbucks.com/menu/product/2123657/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cake Pops
+Categoria: Bakery
+Subcategoria: Cake Pops
 Produto: Birthday Cake Pop
 URL do Produto: https://www.starbucks.com/menu/product/784/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cake Pops
+Categoria: Bakery
+Subcategoria: Cake Pops
 Produto: Chocolate Cake Pop
 URL do Produto: https://www.starbucks.com/menu/product/1015/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cookies, Brownies & Bars
+Categoria: Bakery
+Subcategoria: Cookies, Brownies & Bars
 Produto: Double Chocolate Brownie
 URL do Produto: https://www.starbucks.com/menu/product/1130/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cookies, Brownies & Bars
+Categoria: Bakery
+Subcategoria: Cookies, Brownies & Bars
 Produto: Chocolate Chip Cookie
 URL do Produto: https://www.starbucks.com/menu/product/2122714/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Cookies, Brownies & Bars
+Categoria: Bakery
+Subcategoria: Cookies, Brownies & Bars
 Produto: Marshmallow Dream Bar
 URL do Produto: https://www.starbucks.com/menu/product/309/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Croissants
+Categoria: Bakery
+Subcategoria: Croissants
 Produto: Ham & Swiss Croissant
 URL do Produto: https://www.starbucks.com/menu/product/2122132/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Croissants
+Categoria: Bakery
+Subcategoria: Croissants
 Produto: Butter Croissant
 URL do Produto: https://www.starbucks.com/menu/product/1033/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Croissants
+Categoria: Bakery
+Subcategoria: Croissants
 Produto: Chocolate Croissant
 URL do Produto: https://www.starbucks.com/menu/product/1028/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Loaves, Cakes & Buns
+Categoria: Bakery
+Subcategoria: Loaves, Cakes & Buns
 Produto: Pineapple Cloud Cake
 URL do Produto: https://www.starbucks.com/menu/product/2123844/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Loaves, Cakes & Buns
+Categoria: Bakery
+Subcategoria: Loaves, Cakes & Buns
 Produto: Cinnamon Coffee Cake
 URL do Produto: https://www.starbucks.com/menu/product/1021/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Loaves, Cakes & Buns
+Categoria: Bakery
+Subcategoria: Loaves, Cakes & Buns
 Produto: Iced Lemon Loaf
 URL do Produto: https://www.starbucks.com/menu/product/1254/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Loaves, Cakes & Buns
+Categoria: Bakery
+Subcategoria: Loaves, Cakes & Buns
 Produto: Pumpkin & Pepita Loaf
 URL do Produto: https://www.starbucks.com/menu/product/1255/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Loaves, Cakes & Buns
+Categoria: Bakery
+Subcategoria: Loaves, Cakes & Buns
 Produto: Banana Walnut & Pecan Loaf
 URL do Produto: https://www.starbucks.com/menu/product/1256/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Danishes & Doughnuts
+Categoria: Bakery
+Subcategoria: Danishes & Doughnuts
 Produto: Vanilla Bean Custard Danish
 URL do Produto: https://www.starbucks.com/menu/product/2123800/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Danishes & Doughnuts
+Categoria: Bakery
+Subcategoria: Danishes & Doughnuts
 Produto: Cheese Danish
 URL do Produto: https://www.starbucks.com/menu/product/1040/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Danishes & Doughnuts
+Categoria: Bakery
+Subcategoria: Danishes & Doughnuts
 Produto: Glazed Doughnut
 URL do Produto: https://www.starbucks.com/menu/product/311/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Muffins & Scones
+Categoria: Bakery
+Subcategoria: Muffins & Scones
 Produto: Blueberry Scone
 URL do Produto: https://www.starbucks.com/menu/product/1041/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Muffins & Scones
+Categoria: Bakery
+Subcategoria: Muffins & Scones
 Produto: Petite Vanilla Bean Scone
 URL do Produto: https://www.starbucks.com/menu/product/317/single
 ------------------------
-Categoria: Food
-Subcategoria: Bakery
-Sub-subcategoria: Muffins & Scones
+Categoria: Bakery
+Subcategoria: Muffins & Scones
 Produto: Blueberry Muffin
 URL do Produto: https://www.starbucks.com/menu/product/1036/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Warm Sandwiches
+Categoria: Lunch
+Subcategoria: Warm Sandwiches
 Produto: Crispy Grilled Cheese on Sourdough
 URL do Produto: https://www.starbucks.com/menu/product/2123039/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Warm Sandwiches
+Categoria: Lunch
+Subcategoria: Warm Sandwiches
 Produto: Ham & Swiss on Baguette
 URL do Produto: https://www.starbucks.com/menu/product/574/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Warm Sandwiches
+Categoria: Lunch
+Subcategoria: Warm Sandwiches
 Produto: Turkey, Provolone & Pesto on Ciabatta
 URL do Produto: https://www.starbucks.com/menu/product/2121962/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Warm Sandwiches
+Categoria: Lunch
+Subcategoria: Warm Sandwiches
 Produto: Tomato & Mozzarella on Focaccia
 URL do Produto: https://www.starbucks.com/menu/product/573/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Warm Sandwiches
+Categoria: Lunch
+Subcategoria: Warm Sandwiches
 Produto: Avocado Spread
 URL do Produto: https://www.starbucks.com/menu/product/2122257/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Protein Boxes
+Categoria: Lunch
+Subcategoria: Protein Boxes
 Produto: Eggs & Gouda Protein Box
 URL do Produto: https://www.starbucks.com/menu/product/2123221/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Protein Boxes
+Categoria: Lunch
+Subcategoria: Protein Boxes
 Produto: Cheese Trio Protein Box
 URL do Produto: https://www.starbucks.com/menu/product/2123222/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Protein Boxes
+Categoria: Lunch
+Subcategoria: Protein Boxes
 Produto: Cheddar & Uncured Salami Protein Box
 URL do Produto: https://www.starbucks.com/menu/product/2123223/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Protein Boxes
+Categoria: Lunch
+Subcategoria: Protein Boxes
 Produto: Eggs & Cheddar Protein Box
 URL do Produto: https://www.starbucks.com/menu/product/2122248/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Protein Boxes
+Categoria: Lunch
+Subcategoria: Protein Boxes
 Produto: PB&J Protein Box
 URL do Produto: https://www.starbucks.com/menu/product/2122250/single
 ------------------------
-Categoria: Food
-Subcategoria: Lunch
-Sub-subcategoria: Protein Boxes
+Categoria: Lunch
+Subcategoria: Protein Boxes
 Produto: Cheese & Fruit Protein Box
 URL do Produto: https://www.starbucks.com/menu/product/2122249/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Biscotti & Cookies
+Categoria: Snacks & Sweets
+Subcategoria: Biscotti & Cookies
 Produto: Madeleines
 URL do Produto: https://www.starbucks.com/menu/product/2121740/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Biscotti & Cookies
+Categoria: Snacks & Sweets
+Subcategoria: Biscotti & Cookies
 Produto: Vanilla Biscotti with Almonds
 URL do Produto: https://www.starbucks.com/menu/product/2121411/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Biscotti & Cookies
+Categoria: Snacks & Sweets
+Subcategoria: Biscotti & Cookies
 Produto: Shortbread Cookies
 URL do Produto: https://www.starbucks.com/menu/product/2121410/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Biscotti & Cookies
+Categoria: Snacks & Sweets
+Subcategoria: Biscotti & Cookies
 Produto: Rip van Wafels – Honey & Oats
 URL do Produto: https://www.starbucks.com/menu/product/2121699/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Chocolates & Candy
+Categoria: Snacks & Sweets
+Subcategoria: Chocolates & Candy
 Produto: Salted Almond Chocolate Bites
 URL do Produto: https://www.starbucks.com/menu/product/2122093/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Chocolates & Candy
+Categoria: Snacks & Sweets
+Subcategoria: Chocolates & Candy
 Produto: Dark Chocolate Covered Espresso Beans
 URL do Produto: https://www.starbucks.com/menu/product/2122119/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Chocolates & Candy
+Categoria: Snacks & Sweets
+Subcategoria: Chocolates & Candy
 Produto: Dark Chocolate Peanut Butter Cups
 URL do Produto: https://www.starbucks.com/menu/product/2121686/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Fruit & Nuts
+Categoria: Snacks & Sweets
+Subcategoria: Fruit & Nuts
 Produto: SkinnyDipped Dark Chocolate Cocoa Almonds
 URL do Produto: https://www.starbucks.com/menu/product/2123823/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Fruit & Nuts
+Categoria: Snacks & Sweets
+Subcategoria: Fruit & Nuts
 Produto: SkinnyDipped Lemon Bliss Almonds
 URL do Produto: https://www.starbucks.com/menu/product/2123820/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Fruit & Nuts
+Categoria: Snacks & Sweets
+Subcategoria: Fruit & Nuts
 Produto: Squirrel Brand® Fruit & Nut
 URL do Produto: https://www.starbucks.com/menu/product/2121816/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Fruit & Nuts
+Categoria: Snacks & Sweets
+Subcategoria: Fruit & Nuts
 Produto: Peter Rabbit™ Organics Strawberry Banana
 URL do Produto: https://www.starbucks.com/menu/product/2121692/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Gum & Mints
+Categoria: Snacks & Sweets
+Subcategoria: Gum & Mints
 Produto: Spearmint Gum
 URL do Produto: https://www.starbucks.com/menu/product/2123299/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Popcorn & Chips
+Categoria: Snacks & Sweets
+Subcategoria: Popcorn & Chips
 Produto: Siete Sea Salt Kettle Cooked Potato Chips
 URL do Produto: https://www.starbucks.com/menu/product/2123819/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Popcorn & Chips
+Categoria: Snacks & Sweets
+Subcategoria: Popcorn & Chips
 Produto: Siete Lime Grain Free Tortilla Chips
 URL do Produto: https://www.starbucks.com/menu/product/2123822/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Popcorn & Chips
+Categoria: Snacks & Sweets
+Subcategoria: Popcorn & Chips
 Produto: Starbucks Butter Popcorn
 URL do Produto: https://www.starbucks.com/menu/product/2121689/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Popcorn & Chips
+Categoria: Snacks & Sweets
+Subcategoria: Popcorn & Chips
 Produto: Perfectly Salted Chips
 URL do Produto: https://www.starbucks.com/menu/product/2121813/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Meat & Cheese
+Categoria: Snacks & Sweets
+Subcategoria: Meat & Cheese
 Produto: Country Archer - Hickory Smoked Turkey Jerkey
 URL do Produto: https://www.starbucks.com/menu/product/2122004/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Meat & Cheese
+Categoria: Snacks & Sweets
+Subcategoria: Meat & Cheese
 Produto: String Cheese
 URL do Produto: https://www.starbucks.com/menu/product/2122033/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: Perfect Bar® - Dark Chocolate Chip Peanut Butter
 URL do Produto: https://www.starbucks.com/menu/product/2122867/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: Perfect Bar® Peanut Butter
 URL do Produto: https://www.starbucks.com/menu/product/2122631/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: KIND - Almond Coconut Cashew Chai
 URL do Produto: https://www.starbucks.com/menu/product/2121814/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: KIND Peanut Butter Dark Chocolate Bar
 URL do Produto: https://www.starbucks.com/menu/product/2121697/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: KIND® Salted Caramel & Dark Chocolate Nut Bar
 URL do Produto: https://www.starbucks.com/menu/product/2121815/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: That's It® - Apple + Blueberry Bar
 URL do Produto: https://www.starbucks.com/menu/product/2121694/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Snack Bars
+Categoria: Snacks & Sweets
+Subcategoria: Snack Bars
 Produto: That's It® - Apple + Mango Bar
 URL do Produto: https://www.starbucks.com/menu/product/2121693/single
 ------------------------
-Categoria: Food
-Subcategoria: Snacks & Sweets
-Sub-subcategoria: Spreads
+Categoria: Snacks & Sweets
+Subcategoria: Spreads
 Produto: Avocado Spread
 URL do Produto: https://www.starbucks.com/menu/product/2122257/single
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Starbucks Reserve®
+Categoria: Whole Bean
+Subcategoria: Starbucks Reserve®
 Produto: Starbucks Reserve Colombia Nariño Granos De Esperanza™
 URL do Produto: https://www.starbucks.com/menu/product/2123847/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Starbucks Reserve®
+Categoria: Whole Bean
+Subcategoria: Starbucks Reserve®
 Produto: Starbucks Reserve® Bali Mount Batur
 URL do Produto: https://www.starbucks.com/menu/product/2123849/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Starbucks Reserve®
+Categoria: Whole Bean
+Subcategoria: Starbucks Reserve®
 Produto: Sun-Dried Ethiopia Kayon Mountain Farm Starbucks Reserve®
 URL do Produto: https://www.starbucks.com/menu/product/2122178/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Starbucks Reserve®
+Categoria: Whole Bean
+Subcategoria: Starbucks Reserve®
 Produto: Guatemala Huehuetenango Starbucks Reserve®
 URL do Produto: https://www.starbucks.com/menu/product/2122439/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Blonde Roast
+Categoria: Whole Bean
+Subcategoria: Blonde Roast
 Produto: Starbucks® Green Apron Blend™
 URL do Produto: https://www.starbucks.com/menu/product/2123755/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Blonde Roast
+Categoria: Whole Bean
+Subcategoria: Blonde Roast
 Produto: Veranda Blend®
 URL do Produto: https://www.starbucks.com/menu/product/860/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Blonde Roast
+Categoria: Whole Bean
+Subcategoria: Blonde Roast
 Produto: Starbucks® Blonde Espresso Roast
 URL do Produto: https://www.starbucks.com/menu/product/2122186/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Medium Roast
+Categoria: Whole Bean
+Subcategoria: Medium Roast
 Produto: Starbucks Odyssey Blend® 2024
 URL do Produto: https://www.starbucks.com/menu/product/2123467/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Medium Roast
+Categoria: Whole Bean
+Subcategoria: Medium Roast
 Produto: Starbucks Siren’s Blend™
 URL do Produto: https://www.starbucks.com/menu/product/2123124/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Medium Roast
+Categoria: Whole Bean
+Subcategoria: Medium Roast
 Produto: Guatemala Antigua
 URL do Produto: https://www.starbucks.com/menu/product/3/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Medium Roast
+Categoria: Whole Bean
+Subcategoria: Medium Roast
 Produto: Pike Place® Roast
 URL do Produto: https://www.starbucks.com/menu/product/24/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Medium Roast
+Categoria: Whole Bean
+Subcategoria: Medium Roast
 Produto: Organic Yukon Blend®
 URL do Produto: https://www.starbucks.com/menu/product/290/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Starbucks® Anniversary Blend 2024
 URL do Produto: https://www.starbucks.com/menu/product/104/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Decaf Sumatra
 URL do Produto: https://www.starbucks.com/menu/product/581/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Caffè Verona®
 URL do Produto: https://www.starbucks.com/menu/product/15/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Espresso Roast
 URL do Produto: https://www.starbucks.com/menu/product/20/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Italian Roast
 URL do Produto: https://www.starbucks.com/menu/product/23/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Komodo Dragon Blend®
 URL do Produto: https://www.starbucks.com/menu/product/10/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: Whole Bean
-Sub-subcategoria: Dark Roast
+Categoria: Whole Bean
+Subcategoria: Dark Roast
 Produto: Sumatra
 URL do Produto: https://www.starbucks.com/menu/product/8/whole-bean
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: VIA® Instant
-Sub-subcategoria: Flavored
+Categoria: VIA® Instant
+Subcategoria: Flavored
 Produto: VIA® Sweetened Iced Coffee
 URL do Produto: https://www.starbucks.com/menu/product/810/via
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: VIA® Instant
-Sub-subcategoria: Blonde Roast
+Categoria: VIA® Instant
+Subcategoria: Blonde Roast
 Produto: VIA® Veranda Blend™
 URL do Produto: https://www.starbucks.com/menu/product/860/via
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: VIA® Instant
-Sub-subcategoria: Medium Roast
+Categoria: VIA® Instant
+Subcategoria: Medium Roast
 Produto: Starbucks VIA® Instant Pike Place® Roast
 URL do Produto: https://www.starbucks.com/menu/product/24/via
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: VIA® Instant
-Sub-subcategoria: Dark Roast
+Categoria: VIA® Instant
+Subcategoria: Dark Roast
 Produto: VIA® Italian Roast
 URL do Produto: https://www.starbucks.com/menu/product/23/via
 ------------------------
-Categoria: At Home Coffee
-Subcategoria: VIA® Instant
-Sub-subcategoria: Dark Roast
+Categoria: VIA® Instant
+Subcategoria: Dark Roast
 Produto: VIA® Decaf Italian Roast
 URL do Produto: https://www.starbucks.com/menu/product/868/via
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: White Siren Bling Plastic Cold Cup - 16 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123848/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: White Siren Bling Plastic Cold Cup - 24 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123842/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: UV Color-Changing Plastic Reusable Cold Cup with Straw - 24 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123843/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: Sky Blue Soft-Touch Stainless-Steel Vacuum Cold Cup - 24 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123846/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: Multicolor Plastic Reusable Cold Cup with Dome Lid, 5-Pack - 24 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123845/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: Plastic Reusable Cold Cup with Lid & Straw - 24 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123336/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Cold Cups
+Produto: Siren Logo Plastic Cold Cup - 24 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123607/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Tumblers
+Produto: Siren Logo Plastic Hot Cup - 16 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123291/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Mugs
+Produto: Glass Mug - 16 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123713/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Water Bottles
+Produto: Twist to Sip Stainless-Steel Water Bottle - 20 fl oz
+URL do Produto: https://www.starbucks.com/menu/product/2123850/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Other
+Produto: French Press
+URL do Produto: https://www.starbucks.com/menu/product/2123710/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Other
+Produto: Pour Over
+URL do Produto: https://www.starbucks.com/menu/product/2123718/single
+------------------------
+Categoria: Merchandise
+Subcategoria: Other
+Produto: Small Shopping Bag
+URL do Produto: https://www.starbucks.com/menu/product/2121746/single
 ------------------------
