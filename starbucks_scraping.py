@@ -1,59 +1,50 @@
 import requests
 from bs4 import BeautifulSoup
 
-#request para a pagina
+# Fazendo a requisição para a página
 response_html = requests.get('https://www.starbucks.com/menu')
 
-# Parseando o HTML
+# Parseando o HTML (embora neste caso específico não estejamos utilizando o soup)
 soup = BeautifulSoup(response_html.text, 'html.parser')
 
-base_url = 'https://www.starbucks.com/menu'
+base_url_menu = 'https://www.starbucks.com/menu' #para complementar a URL dos produtos extraídos
 url_json = 'https://www.starbucks.com/bff/ordering/menu'
 response_json = requests.get(url_json)
 
 if response_json.status_code == 200:
     data = response_json.json()
     print("JSON carregado com sucesso")
-# a partir do arquivo json, vamos pegar o nome e a url de cada menu
 
+    # Função para extrair os dados desejados
+    lista_menu = []
+    def extract_data(data):
+        with open('output.txt', 'w', encoding='utf-8') as f:
+            for menu in data.get('menus', []):
+                menu_name = menu.get('name', 'N/A')
+                for categoria in menu.get('children', []):
+                    nome_categoria = categoria.get('name', 'N/A')
+                    for sub_categoria in categoria.get('children', []):
+                        sub_nome_categoria = sub_categoria.get('name', 'N/A')
+                        for produto in sub_categoria.get('products', []):  # Corrigido aqui
+                            nome_produto = produto.get('name', 'N/A')
+                            uri_produto = produto.get('uri', 'N/A')
+                            f.write(f"Categoria: {menu_name}\n")
+                            f.write(f"Subcategoria: {nome_categoria}\n")
+                            f.write(f"Sub-subcategoria: {sub_nome_categoria}\n")
+                            f.write(f"Produto: {nome_produto}\n")
+                            f.write(f"URL do Produto: {base_url_menu + uri_produto}\n")
+                            lista_menu.append({
+                                "Categoria": menu_name,
+                                "Subcategoria": nome_categoria,
+                                "Sub-subcategoria": sub_nome_categoria,
+                                "Produto": nome_produto,
+                                "URL do Produto": base_url_menu + uri_produto
+                            })
+                            f.write("------------------------\n")
 
-dict_menu = {}
-
-# Irei armazenar as urls do cardápio em um dicionário, com base no JSON eu extraí o nome base das categorias e complemento a url com o nome da categoria e da subcategoria por exemplo: https://www.starbucks.com/menu/drinks/hot-coffees , hot-coffees é subcategoria do menu drinks.
-dict_menu = {}
-
-for menu in  data['menus']:
-    if 'children' in menu:
-        for child in menu['children']:
-            child_name = child['name']
-            child_url = base_url + child['uri']
-            dict_menu[child_name] = child_url
-            print("Categoria:", child_name)
-            print("URL:", child_url)
-
-print(dict_menu)
-
-#aqui vamos pegar a url nutricional de cada produto, por exxemplo ela é composta por https://www.starbucks.com/menu/product/406/hot, é a uri
-
-dict_product = {}
-# Pegar a URI de cada produto
-dict_product = {}
-for menu in  data['menus']:
-    base_url_product = 'https://www.starbucks.com/menu'
-    if 'children' in menu:
-        for child in menu['children']:
-            if 'children' in child:
-                for subchild in child['children']:
-                    subcategory_name = subchild['name']
-                    subcategory_url = base_url + subchild['uri']
-                    print("\nSubcategoria:", subcategory_name)
-                    print("URL:", subcategory_url)
-                    if 'products' in subchild:
-                        for product in subchild['products']:
-                            product_name = product['name']
-                            product_uri = product['uri']
-                            dict_product[product_name] = base_url_product + product_uri
-                            print("\nProduto:", product_name)
-                            print("URL do Produto:", base_url_product + product_uri)
-
-print(dict_product)
+    extract_data(data)
+    print("Dados extraídos com sucesso")
+    print(lista_menu)
+    print(f"Total de itens encontrados: {len(lista_menu)}")
+else:
+    print(f"Erro ao carregar JSON: {response_json.status_code}")
