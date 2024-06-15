@@ -1,7 +1,7 @@
 import requests
 import json
 
-# Fazendo a requisição para a página
+# request na api que retorna os dados do menu em json
 url_json = 'https://www.starbucks.com/bff/ordering/menu'
 response_json = requests.get(url_json)
 
