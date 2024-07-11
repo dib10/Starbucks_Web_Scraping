@@ -19,9 +19,10 @@ if response.status_code == 200:
                 for produto in item['products']:
                     if 'merchandise' in novo_caminho[0].lower():
                         continue
-                    # Para cada produto, extrai as informações necessárias
-                    categoria, subcategoria, subsubcategoria = (novo_caminho + [None, None])[:3]
-                    # Se subsubcategoria for None, recebe o valor de subcategoria
+                    # Garantir que novo_caminho tenha exatamente 3 elementos
+                    while len(novo_caminho) < 3:
+                        novo_caminho.append(None)
+                    categoria, subcategoria, subsubcategoria = novo_caminho
                     if subsubcategoria is None:
                         subsubcategoria = subcategoria
                     uri_produto = produto.get('uri', 'Sem URL')
@@ -44,10 +45,16 @@ else:
     print(f"Erro ao acessar o JSON: Status code {response.status_code}")
 print(f"Produtos encontrados: {len(resultados)}")
 
-print(f"{resultados[251]}")
+print(f"{resultados[252]}")
+
+#extrair dados nutricionais
+
+
+
+
+
 
 # DATAFRAME
 df = pd.DataFrame(resultados)
 df.to_csv('starbucks_menu.csv', index=False, encoding='utf-8-sig')
 # print(df.head())
-
