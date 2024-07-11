@@ -1,6 +1,8 @@
-import json
 import requests
 import pandas as pd
+
+url_base_menu = 'https://www.starbucks.com/menu'
+url_base_nutri = 'https://www.starbucks.com/bff/ordering/'
 
 # Realizar a requisição HTTP e verificar se foi bem-sucedida
 response = requests.get('https://www.starbucks.com/bff/ordering/menu')
@@ -27,13 +29,16 @@ if response.status_code == 200:
                         subsubcategoria = subcategoria
                     uri_produto = produto.get('uri', 'Sem URL')
                     url_produto = url_base_menu + uri_produto
+                    num_produto = produto['productNumber']  # Extrai o número do produto
+                    url_nutri_produto = f'{url_base_nutri}{num_produto}/single'
                     produto_info = {
                         'Categoria': categoria,
                         'Subcategoria': subcategoria,
                         'Subsubcategoria': subsubcategoria,
                         'Nome': produto['name'],
                         'URL': url_produto,  # URL do produto ajustada
-                        'URL nutricional': url_produto + '/nutrition'  # Corrigir o nome da coluna
+                        'ProductNumber': num_produto,  # Número do produto
+                        'URL nutricional': url_nutri_produto,
                     }
                     resultados.append(produto_info)
         return resultados
@@ -41,20 +46,12 @@ if response.status_code == 200:
     # Extrair informações começando do nível mais alto
     resultados = extrair_informacoes(data['menus'])
 
+    # Salvar os resultados em um arquivo CSV
+    df = pd.DataFrame(resultados)
+    df.to_csv('starbucks_menu.csv', index=False, encoding='utf-8-sig')
+    
+    print(f"Produtos encontrados: {len(resultados)}")
+    print(f"{resultados[2]}")  # Exemplo de impressão de um produto específico
+    
 else:
     print(f"Erro ao acessar o JSON: Status code {response.status_code}")
-print(f"Produtos encontrados: {len(resultados)}")
-
-print(f"{resultados[252]}")
-
-#extrair dados nutricionais
-
-
-
-
-
-
-# DATAFRAME
-df = pd.DataFrame(resultados)
-df.to_csv('starbucks_menu.csv', index=False, encoding='utf-8-sig')
-# print(df.head())
