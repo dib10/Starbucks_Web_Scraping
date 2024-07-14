@@ -9,6 +9,7 @@ def remover_unidades_e_converter(column, unit):
 # Carregar a planilha de dados
 df = pd.read_csv('starbucks_menu.csv')
 
+
 # Remover unidades e converter colunas para numérico
 df['serving_size'] = df['serving_size'].str.replace('[^0-9.]', '', regex=True).astype(float)
 df['total_fat'] = remover_unidades_e_converter(df['total_fat'], 'g')
@@ -22,6 +23,12 @@ df['sugars'] = remover_unidades_e_converter(df['sugars'], 'g')
 df['protein'] = remover_unidades_e_converter(df['protein'], 'g')
 df['caffeine'] = remover_unidades_e_converter(df['caffeine'], 'mg')
 
+# Filtrar linhas com valores não nulos nas colunas especificadas
+df_clean = df.dropna(subset=['serving_size', 'calories', 'total_fat', 'saturated_fat', 'trans_fat', 'cholesterol',
+                             'sodium', 'total_carbohydrate', 'dietary_fiber', 'sugars', 'protein', 'caffeine'])
+
 st.title('Starbucks Menu')
 
-st.dataframe(df)
+# Exibir o DataFrame limpo
+st.dataframe(df_clean)
+

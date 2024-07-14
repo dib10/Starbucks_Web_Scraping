@@ -136,97 +136,79 @@ Steamed Apple Juice,drinks,"milk, juice & more",juice,https://www.starbucks.com/
 Cold Milk,drinks,"milk, juice & more",milk & steamers,https://www.starbucks.com/menu/product/490/iced, 12 fl oz,200.0, 8 g, 4 g, 0 g, 30 mg, 190 mg, 19 g, 0 g, 19 g, 13 g, 0 mg
 Steamed Milk,drinks,"milk, juice & more",milk & steamers,https://www.starbucks.com/menu/product/747/hot, 8 fl oz,100.0, 4 g, 2 g, 0 g, 15 mg, 95 mg, 10 g, 0 g, 10 g, 7 g, 0 mg
 Vanilla Crème,drinks,"milk, juice & more",milk & steamers,https://www.starbucks.com/menu/product/873068652/hot, 8 fl oz,180.0, 9 g, 5 g, 0 g, 35 mg, 90 mg, 20 g, 0 g, 19 g, 6 g, 0 mg
-Spindrift® Lemon Sparkling Water,drinks,bottled beverages,water and sparkling,https://www.starbucks.com/menu/product/2123858/packaged,,,,,,,,,,,,
-Spindrift® Raspberry Lime Sparkling Water,drinks,bottled beverages,water and sparkling,https://www.starbucks.com/menu/product/2122638/packaged, 12 fl oz,9.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 2 g, 0 g, 1 g, 0 g, 0 mg
-Ethos® Bottled Water,drinks,bottled beverages,water and sparkling,https://www.starbucks.com/menu/product/873068636/packaged,,,,,,,,,,,,
-DASANI Bottled Water,drinks,bottled beverages,water and sparkling,https://www.starbucks.com/menu/product/2123597/packaged,,,,,,,,,,,,
-Hawai'i Volcanic Water,drinks,bottled beverages,water and sparkling,https://www.starbucks.com/menu/product/2123023/packaged, 8 fl oz,0.0, 0 g, 0 g, 0 g, 0 mg, 20 mg, 0 g, 0 g, 0 g, 0 g, 0 mg
-Cup of Water,drinks,bottled beverages,water and sparkling,https://www.starbucks.com/menu/product/873068670/iced,,,,,,,,,,,,
-Koia® Cacao Bean Protein Shake,drinks,bottled beverages,protein and milk,https://www.starbucks.com/menu/product/2123775/packaged, 1 Count,190.0, 7 g, 0.5 g, 0 g, 0 mg, 240 mg, 13 g, 7 g, 4 g, 18 g, 0 mg
-Koia® Vanilla Bean Protein Shake,drinks,bottled beverages,protein and milk,https://www.starbucks.com/menu/product/2123777/packaged, 1 Count,190.0, 7 g, 0.5 g, 0 g, 0 mg, 240 mg, 13 g, 7 g, 4 g, 18 g, 0 mg
-Horizon® Chocolate Organic Milk,drinks,bottled beverages,protein and milk,https://www.starbucks.com/menu/product/2121286/packaged,,,,,,,,,,,,
-Horizon® Organic Lowfat Milk Box,drinks,bottled beverages,protein and milk,https://www.starbucks.com/menu/product/2121281/packaged,,,,,,,,,,,,
-Starbucks™ Baya Energy Mango Guava,drinks,bottled beverages,juice,https://www.starbucks.com/menu/product/2123631/packaged, 12 fl oz,90.0, 0 g, 0 g, 0 g, 0 mg, 10 mg, 23 g, 0 g, 23 g, 0 g, 160 mg
-Evolution Fresh® Organic Defense Up®,drinks,bottled beverages,juice,https://www.starbucks.com/menu/product/2122702/packaged, 11 fl oz,170.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 41 g, 0 g, 37 g, 2 g, 0 mg
-Evolution Fresh® Orange,drinks,bottled beverages,juice,https://www.starbucks.com/menu/product/2122701/packaged, 11 fl oz,170.0, 0 g, 0 g, 0 g, 0 mg, 10 mg, 39 g, 0 g, 35 g, 3 g, 0 mg
-Evolution Fresh® Organic Super Fruit Greens,drinks,bottled beverages,juice,https://www.starbucks.com/menu/product/2122699/packaged, 11 fl oz,180.0, 0 g, 0 g, 0 g, 0 mg, 170 mg, 41 g, 3 g, 36 g, 3 g, 0 mg
-Tree Top Apple Juice Box,drinks,bottled beverages,juice,https://www.starbucks.com/menu/product/873068637/packaged, 8 fl oz,120.0, 0 g, 0 g, 0 g, 0 mg, 25 mg, 29 g, 0 g, 26 g, 0 g, 0 mg
-Starbucks™ Baya Energy Raspberry Lime,drinks,bottled beverages,juice,https://www.starbucks.com/menu/product/2123633/packaged, 12 fl oz,90.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 23 g, 0 g, 22 g, 0 g, 170 mg
-Brew DR. Island Mango Kombucha,drinks,bottled beverages,kombucha,https://www.starbucks.com/menu/product/2123778/packaged, 12 fl oz,70.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 17 g, 0 g, 13 g, 0 g, 0 mg
-Brew DR. Superberry Kombucha,drinks,bottled beverages,kombucha,https://www.starbucks.com/menu/product/2123776/packaged, 12 fl oz,50.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 14 g, 0 g, 11 g, 0 g, 0 mg
-"Egg, Pesto & Mozzarella Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123885/single, 146 g,390.0, 16 g, 6 g, 0 g, 175 mg, 790 mg, 36 g, 2 g, 1 g, 21 g,N/A
-"Chicken, Maple Butter & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123672/single, 150 g,450.0, 24 g, 8 g, 0 g, 160 mg, 1040 mg, 42 g, 1 g, 6 g, 17 g,N/A
-"Bacon, Sausage & Egg Wrap",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123181/single, 214 g,640.0, 33 g, 13 g, 0 g, 340 mg, 1050 mg, 57 g, 2 g, 2 g, 28 g,N/A
-Impossible™ Breakfast Sandwich,food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123236/single, 150 g,420.0, 22 g, 8 g, 0 g, 190 mg, 800 mg, 36 g, 3 g, 4 g, 21 g,N/A
-"Bacon, Gouda & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/369/single, 120 g,360.0, 18 g, 7 g, 0 g, 155 mg, 720 mg, 35 g, 1 g, 2 g, 19 g,N/A
-"Double-Smoked Bacon, Cheddar & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2121219/single, 148 g,500.0, 27 g, 13 g, 0 g, 225 mg, 960 mg, 43 g, 2 g, 8 g, 21 g,N/A
-"Turkey Bacon, Cheddar & Egg White Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/368/single, 120 g,230.0, 5 g, 2.5 g, 0 g, 20 mg, 560 mg, 28 g, 3 g, 2 g, 17 g,N/A
-"Sausage, Cheddar & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/367/single, 157 g,480.0, 29 g, 10 g, 0 g, 165 mg, 890 mg, 34 g, 1 g, 2 g, 18 g,N/A
-"Spinach, Feta & Egg White Wrap",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/371/single, 159 g,290.0, 8 g, 3.5 g, 0 g, 20 mg, 840 mg, 34 g, 3 g, 5 g, 20 g,N/A
-Avocado Spread,food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,N/A
-"Potato, Cheddar & Chive Bakes",food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2123269/single, 130 g,210.0, 13 g, 7 g, 0 g, 135 mg, 410 mg, 11 g, 0 g, 2 g, 12 g,N/A
-Kale & Mushroom Egg Bites,food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2123401/single, 130 g,230.0, 14 g, 9 g, 0 g, 180 mg, 340 mg, 11 g, 2 g, 1 g, 15 g,N/A
-Bacon & Gruyère Egg Bites,food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2122116/single, 130 g,300.0, 20 g, 12 g, 0 g, 215 mg, 680 mg, 9 g, 0 g, 2 g, 19 g,N/A
-Egg White & Roasted Red Pepper Egg Bites,food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2122117/single, 130 g,170.0, 8 g, 5 g, 0 g, 25 mg, 470 mg, 11 g, 0 g, 3 g, 12 g,N/A
-Rolled & Steel-Cut Oatmeal,food,oatmeal & yogurt,oatmeal & yogurt,https://www.starbucks.com/menu/product/301/single, 42 g,160.0, 2.5 g, 0.5 g, 0 g, 0 mg, 125 mg, 28 g, 4 g, 0 g, 5 g,N/A
-Berry Trio Parfait,food,oatmeal & yogurt,oatmeal & yogurt,https://www.starbucks.com/menu/product/2122192/single, 164 g,240.0, 2.5 g, 0 g, 0 g, 5 mg, 125 mg, 39 g, 2 g, 25 g, 14 g,N/A
-Plain Bagel,food,bakery,bagels,https://www.starbucks.com/menu/product/321/single, 108 g,290.0, 1 g, 0 g, 0 g, 0 mg, 570 mg, 60 g, 2 g, 6 g, 10 g,N/A
-Everything Bagel,food,bakery,bagels,https://www.starbucks.com/menu/product/324/single, 102 g,290.0, 2.5 g, 0.5 g, 0 g, 0 mg, 530 mg, 57 g, 3 g, 5 g, 10 g,N/A
-Avocado Spread,food,bakery,bagels,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,N/A
-Orange Cream Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/2123851/single, 35 g,140.0, 7 g, 4 g, 0 g, 10 mg, 95 mg, 18 g, 0 g, 14 g, 1 g,N/A
-Cookies & Cream Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/2123657/single, 34 g,140.0, 7 g, 4 g, 0 g, 10 mg, 70 mg, 20 g, 0 g, 15 g, 1 g,N/A
-Birthday Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/784/single, 38 g,160.0, 8 g, 4.5 g, 0 g, 10 mg, 95 mg, 21 g, 0 g, 16 g, 2 g,N/A
-Chocolate Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/1015/single, 38 g,150.0, 8 g, 5 g, 0 g, 10 mg, 60 mg, 21 g, 1 g, 16 g, 2 g,N/A
-Double Chocolate Brownie,food,bakery,"cookies, brownies & bars",https://www.starbucks.com/menu/product/1130/single, 104 g,480.0, 28 g, 9 g, 0 g, 75 mg, 220 mg, 55 g, 3 g, 37 g, 6 g,N/A
-Chocolate Chip Cookie,food,bakery,"cookies, brownies & bars",https://www.starbucks.com/menu/product/2122714/single, 80 g,370.0, 19 g, 11 g, 0 g, 65 mg, 230 mg, 47 g, 2 g, 31 g, 5 g,N/A
-Marshmallow Dream Bar,food,bakery,"cookies, brownies & bars",https://www.starbucks.com/menu/product/309/single, 60 g,230.0, 5 g, 3.5 g, 0 g, 15 mg, 220 mg, 44 g, 0 g, 24 g, 1 g,N/A
-Ham & Swiss Croissant,food,bakery,croissants,https://www.starbucks.com/menu/product/2122132/single, 92 g,320.0, 17 g, 9 g, 0.5 g, 65 mg, 490 mg, 28 g, 1 g, 5 g, 14 g,N/A
-Butter Croissant,food,bakery,croissants,https://www.starbucks.com/menu/product/1033/single, 62 g,250.0, 14 g, 8 g, 0 g, 45 mg, 300 mg, 26 g, 1 g, 4 g, 5 g,N/A
-Chocolate Croissant,food,bakery,croissants,https://www.starbucks.com/menu/product/1028/single, 80 g,300.0, 18 g, 10 g, 0 g, 50 mg, 300 mg, 34 g, 2 g, 11 g, 5 g,N/A
-Pineapple Cloud Cake,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/2123844/single, 74 g,240.0, 10 g, 4.5 g, 0 g, 15 mg, 150 mg, 35 g, 1 g, 21 g, 3 g,N/A
-Cinnamon Coffee Cake,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1021/single, 100 g,380.0, 15 g, 8 g, 0 g, 70 mg, 270 mg, 57 g, 1 g, 35 g, 4 g,N/A
-Iced Lemon Loaf,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1254/single, 126 g,450.0, 19 g, 9 g, 0.5 g, 100 mg, 300 mg, 64 g, 1 g, 39 g, 6 g,N/A
-Pumpkin & Pepita Loaf,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1255/single, 120 g,380.0, 15 g, 2.5 g, 0 g, 50 mg, 490 mg, 55 g, 2 g, 33 g, 6 g,N/A
-Banana Walnut & Pecan Loaf,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1256/single, 120 g,410.0, 20 g, 3 g, 0 g, 65 mg, 320 mg, 50 g, 2 g, 28 g, 6 g,N/A
-Glazed Doughnut,food,bakery,danishes & doughnuts,https://www.starbucks.com/menu/product/311/single, 113 g,440.0, 19 g, 9 g, 0 g, 10 mg, 430 mg, 60 g, 2 g, 34 g, 5 g,N/A
-Cheese Danish,food,bakery,danishes & doughnuts,https://www.starbucks.com/menu/product/1040/single, 80 g,290.0, 14 g, 9 g, 0.5 g, 45 mg, 400 mg, 33 g, 1 g, 11 g, 7 g,N/A
-Blueberry Streusel Muffin,food,bakery,muffins & scones,https://www.starbucks.com/menu/product/2123882/single, 35 g,370.0, 18 g, 4 g, 0 g, 50 mg, 330 mg, 47 g, 1 g, 27 g, 5 g,N/A
-Blueberry Scone,food,bakery,muffins & scones,https://www.starbucks.com/menu/product/1041/single, 100 g,410.0, 18 g, 11 g, 0 g, 75 mg, 380 mg, 56 g, 2 g, 22 g, 7 g,N/A
-Petite Vanilla Bean Scone,food,bakery,muffins & scones,https://www.starbucks.com/menu/product/317/single, 33 g,130.0, 6 g, 3 g, 0 g, 15 mg, 110 mg, 19 g, 0 g, 9 g, 2 g,N/A
-Crispy Grilled Cheese on Sourdough,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/2123039/single, 143 g,520.0, 27 g, 16 g, 1 g, 70 mg, 1050 mg, 48 g, 3 g, 1 g, 21 g,N/A
-Ham & Swiss on Baguette,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/574/single, 176 g,500.0, 24 g, 10 g, 0 g, 80 mg, 1250 mg, 43 g, 2 g, 1 g, 25 g,N/A
-"Turkey, Provolone & Pesto on Ciabatta",food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/2121962/single, 200 g,520.0, 19 g, 6 g, 0 g, 70 mg, 1190 mg, 53 g, 3 g, 3 g, 32 g,N/A
-Tomato & Mozzarella on Focaccia,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/573/single, 153 g,360.0, 12 g, 4.5 g, 0 g, 20 mg, 590 mg, 47 g, 1 g, 2 g, 15 g,N/A
-Avocado Spread,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,N/A
-Eggs & Gouda Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2123221/single, 170 g,530.0, 28 g, 10 g, 0 g, 370 mg, 790 mg, 30 g, 5 g, 23 g, 26 g,N/A
-Cheese Trio Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2123222/single, 135 g,520.0, 24 g, 14 g, 1 g, 70 mg, 710 mg, 59 g, 5 g, 40 g, 20 g,N/A
-Cheddar & Uncured Salami Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2123223/single, 100 g,470.0, 31 g, 11 g, 0.5 g, 60 mg, 810 mg, 31 g, 3 g, 14 g, 20 g,N/A
-Eggs & Cheddar Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2122248/single, 247 g,460.0, 24 g, 7 g, 0 g, 350 mg, 450 mg, 40 g, 5 g, 21 g, 22 g,N/A
-PB&J Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2122250/single, 207 g,520.0, 27 g, 8 g, 0 g, 20 mg, 640 mg, 53 g, 4 g, 29 g, 19 g,N/A
-Cheese & Fruit Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2122249/single, 192 g,470.0, 28 g, 16 g, 1 g, 75 mg, 770 mg, 37 g, 3 g, 17 g, 20 g,N/A
-Madeleines,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121740/single, 51 g,220.0, 11 g, 7 g, 0 g, 65 mg, 120 mg, 28 g, 0 g, 17 g, 3 g,N/A
-Vanilla Biscotti with Almonds,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121411/single, 42 g,200.0, 9 g, 2.5 g, 0 g, 30 mg, 135 mg, 25 g, 2 g, 10 g, 5 g,N/A
-Shortbread Cookies,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121410/single, 33 g,170.0, 9 g, 6 g, 0 g, 25 mg, 0 mg, 21 g, 1 g, 8 g, 2 g,N/A
-Rip van Wafels – Honey & Oats,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121699/single, 33 g,130.0, 6 g, 2.5 g, 0 g, 5 mg, 65 mg, 19 g, 0 g, 8 g, 1 g,N/A
-Salted Almond Chocolate Bites,food,snacks & sweets,chocolates & candy,https://www.starbucks.com/menu/product/2122093/single, 57 g,300.0, 22 g, 7 g, 0 g, 5 mg, 200 mg, 24 g, 4 g, 19 g, 7 g,N/A
-Dark Chocolate Covered Espresso Beans,food,snacks & sweets,chocolates & candy,https://www.starbucks.com/menu/product/2122119/single, 50 g,260.0, 15 g, 8 g, 0 g, 5 mg, 10 mg, 29 g, 3 g, 22 g, 3 g,N/A
-Dark Chocolate Peanut Butter Cups,food,snacks & sweets,chocolates & candy,https://www.starbucks.com/menu/product/2121686/single, 40 g,220.0, 14 g, 7 g, 0 g, 0 mg, 120 mg, 21 g, 1 g, 16 g, 4 g,N/A
-SkinnyDipped Dark Chocolate Cocoa Almonds,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2123823/single, 28 g,170.0, 12 g, 4.5 g, 0 g, 0 mg, 85 mg, 15 g, 6 g, 5 g, 5 g,N/A
-SkinnyDipped Lemon Bliss Almonds,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2123820/single, 28 g,170.0, 11 g, 4.5 g, 0 g, 0 mg, 75 mg, 17 g, 3 g, 6 g, 4 g,N/A
+"Egg, Pesto & Mozzarella Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123885/single, 146 g,390.0, 16 g, 6 g, 0 g, 175 mg, 790 mg, 36 g, 2 g, 1 g, 21 g,0
+"Chicken, Maple Butter & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123672/single, 150 g,450.0, 24 g, 8 g, 0 g, 160 mg, 1040 mg, 42 g, 1 g, 6 g, 17 g,0
+"Bacon, Sausage & Egg Wrap",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123181/single, 214 g,640.0, 33 g, 13 g, 0 g, 340 mg, 1050 mg, 57 g, 2 g, 2 g, 28 g,0
+Impossible™ Breakfast Sandwich,food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2123236/single, 150 g,420.0, 22 g, 8 g, 0 g, 190 mg, 800 mg, 36 g, 3 g, 4 g, 21 g,0
+"Bacon, Gouda & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/369/single, 120 g,360.0, 18 g, 7 g, 0 g, 155 mg, 720 mg, 35 g, 1 g, 2 g, 19 g,0
+"Double-Smoked Bacon, Cheddar & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2121219/single, 148 g,500.0, 27 g, 13 g, 0 g, 225 mg, 960 mg, 43 g, 2 g, 8 g, 21 g,0
+"Turkey Bacon, Cheddar & Egg White Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/368/single, 120 g,230.0, 5 g, 2.5 g, 0 g, 20 mg, 560 mg, 28 g, 3 g, 2 g, 17 g,0
+"Sausage, Cheddar & Egg Sandwich",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/367/single, 157 g,480.0, 29 g, 10 g, 0 g, 165 mg, 890 mg, 34 g, 1 g, 2 g, 18 g,0
+"Spinach, Feta & Egg White Wrap",food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/371/single, 159 g,290.0, 8 g, 3.5 g, 0 g, 20 mg, 840 mg, 34 g, 3 g, 5 g, 20 g,0
+Avocado Spread,food,hot breakfast,breakfast sandwiches & wraps,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,0
+"Potato, Cheddar & Chive Bakes",food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2123269/single, 130 g,210.0, 13 g, 7 g, 0 g, 135 mg, 410 mg, 11 g, 0 g, 2 g, 12 g,0
+Kale & Mushroom Egg Bites,food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2123401/single, 130 g,230.0, 14 g, 9 g, 0 g, 180 mg, 340 mg, 11 g, 2 g, 1 g, 15 g,0
+Bacon & Gruyère Egg Bites,food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2122116/single, 130 g,300.0, 20 g, 12 g, 0 g, 215 mg, 680 mg, 9 g, 0 g, 2 g, 19 g,0
+Egg White & Roasted Red Pepper Egg Bites,food,hot breakfast,bakes & egg bites,https://www.starbucks.com/menu/product/2122117/single, 130 g,170.0, 8 g, 5 g, 0 g, 25 mg, 470 mg, 11 g, 0 g, 3 g, 12 g,0
+Rolled & Steel-Cut Oatmeal,food,oatmeal & yogurt,oatmeal & yogurt,https://www.starbucks.com/menu/product/301/single, 42 g,160.0, 2.5 g, 0.5 g, 0 g, 0 mg, 125 mg, 28 g, 4 g, 0 g, 5 g,0
+Berry Trio Parfait,food,oatmeal & yogurt,oatmeal & yogurt,https://www.starbucks.com/menu/product/2122192/single, 164 g,240.0, 2.5 g, 0 g, 0 g, 5 mg, 125 mg, 39 g, 2 g, 25 g, 14 g,0
+Plain Bagel,food,bakery,bagels,https://www.starbucks.com/menu/product/321/single, 108 g,290.0, 1 g, 0 g, 0 g, 0 mg, 570 mg, 60 g, 2 g, 6 g, 10 g,0
+Everything Bagel,food,bakery,bagels,https://www.starbucks.com/menu/product/324/single, 102 g,290.0, 2.5 g, 0.5 g, 0 g, 0 mg, 530 mg, 57 g, 3 g, 5 g, 10 g,0
+Avocado Spread,food,bakery,bagels,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,0
+Orange Cream Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/2123851/single, 35 g,140.0, 7 g, 4 g, 0 g, 10 mg, 95 mg, 18 g, 0 g, 14 g, 1 g,0
+Cookies & Cream Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/2123657/single, 34 g,140.0, 7 g, 4 g, 0 g, 10 mg, 70 mg, 20 g, 0 g, 15 g, 1 g,0
+Birthday Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/784/single, 38 g,160.0, 8 g, 4.5 g, 0 g, 10 mg, 95 mg, 21 g, 0 g, 16 g, 2 g,0
+Chocolate Cake Pop,food,bakery,cake pops,https://www.starbucks.com/menu/product/1015/single, 38 g,150.0, 8 g, 5 g, 0 g, 10 mg, 60 mg, 21 g, 1 g, 16 g, 2 g,0
+Double Chocolate Brownie,food,bakery,"cookies, brownies & bars",https://www.starbucks.com/menu/product/1130/single, 104 g,480.0, 28 g, 9 g, 0 g, 75 mg, 220 mg, 55 g, 3 g, 37 g, 6 g,0
+Chocolate Chip Cookie,food,bakery,"cookies, brownies & bars",https://www.starbucks.com/menu/product/2122714/single, 80 g,370.0, 19 g, 11 g, 0 g, 65 mg, 230 mg, 47 g, 2 g, 31 g, 5 g,0
+Marshmallow Dream Bar,food,bakery,"cookies, brownies & bars",https://www.starbucks.com/menu/product/309/single, 60 g,230.0, 5 g, 3.5 g, 0 g, 15 mg, 220 mg, 44 g, 0 g, 24 g, 1 g,0
+Ham & Swiss Croissant,food,bakery,croissants,https://www.starbucks.com/menu/product/2122132/single, 92 g,320.0, 17 g, 9 g, 0.5 g, 65 mg, 490 mg, 28 g, 1 g, 5 g, 14 g,0
+Butter Croissant,food,bakery,croissants,https://www.starbucks.com/menu/product/1033/single, 62 g,250.0, 14 g, 8 g, 0 g, 45 mg, 300 mg, 26 g, 1 g, 4 g, 5 g,0
+Chocolate Croissant,food,bakery,croissants,https://www.starbucks.com/menu/product/1028/single, 80 g,300.0, 18 g, 10 g, 0 g, 50 mg, 300 mg, 34 g, 2 g, 11 g, 5 g,0
+Pineapple Cloud Cake,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/2123844/single, 74 g,240.0, 10 g, 4.5 g, 0 g, 15 mg, 150 mg, 35 g, 1 g, 21 g, 3 g,0
+Cinnamon Coffee Cake,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1021/single, 100 g,380.0, 15 g, 8 g, 0 g, 70 mg, 270 mg, 57 g, 1 g, 35 g, 4 g,0
+Iced Lemon Loaf,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1254/single, 126 g,450.0, 19 g, 9 g, 0.5 g, 100 mg, 300 mg, 64 g, 1 g, 39 g, 6 g,0
+Pumpkin & Pepita Loaf,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1255/single, 120 g,380.0, 15 g, 2.5 g, 0 g, 50 mg, 490 mg, 55 g, 2 g, 33 g, 6 g,0
+Banana Walnut & Pecan Loaf,food,bakery,"loaves, cakes & buns",https://www.starbucks.com/menu/product/1256/single, 120 g,410.0, 20 g, 3 g, 0 g, 65 mg, 320 mg, 50 g, 2 g, 28 g, 6 g,0
+Glazed Doughnut,food,bakery,danishes & doughnuts,https://www.starbucks.com/menu/product/311/single, 113 g,440.0, 19 g, 9 g, 0 g, 10 mg, 430 mg, 60 g, 2 g, 34 g, 5 g,0
+Cheese Danish,food,bakery,danishes & doughnuts,https://www.starbucks.com/menu/product/1040/single, 80 g,290.0, 14 g, 9 g, 0.5 g, 45 mg, 400 mg, 33 g, 1 g, 11 g, 7 g,0
+Blueberry Streusel Muffin,food,bakery,muffins & scones,https://www.starbucks.com/menu/product/2123882/single, 35 g,370.0, 18 g, 4 g, 0 g, 50 mg, 330 mg, 47 g, 1 g, 27 g, 5 g,0
+Blueberry Scone,food,bakery,muffins & scones,https://www.starbucks.com/menu/product/1041/single, 100 g,410.0, 18 g, 11 g, 0 g, 75 mg, 380 mg, 56 g, 2 g, 22 g, 7 g,0
+Petite Vanilla Bean Scone,food,bakery,muffins & scones,https://www.starbucks.com/menu/product/317/single, 33 g,130.0, 6 g, 3 g, 0 g, 15 mg, 110 mg, 19 g, 0 g, 9 g, 2 g,0
+Crispy Grilled Cheese on Sourdough,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/2123039/single, 143 g,520.0, 27 g, 16 g, 1 g, 70 mg, 1050 mg, 48 g, 3 g, 1 g, 21 g,0
+Ham & Swiss on Baguette,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/574/single, 176 g,500.0, 24 g, 10 g, 0 g, 80 mg, 1250 mg, 43 g, 2 g, 1 g, 25 g,0
+"Turkey, Provolone & Pesto on Ciabatta",food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/2121962/single, 200 g,520.0, 19 g, 6 g, 0 g, 70 mg, 1190 mg, 53 g, 3 g, 3 g, 32 g,0
+Tomato & Mozzarella on Focaccia,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/573/single, 153 g,360.0, 12 g, 4.5 g, 0 g, 20 mg, 590 mg, 47 g, 1 g, 2 g, 15 g,0
+Avocado Spread,food,lunch,warm sandwiches,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,0
+Eggs & Gouda Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2123221/single, 170 g,530.0, 28 g, 10 g, 0 g, 370 mg, 790 mg, 30 g, 5 g, 23 g, 26 g,0
+Cheese Trio Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2123222/single, 135 g,520.0, 24 g, 14 g, 1 g, 70 mg, 710 mg, 59 g, 5 g, 40 g, 20 g,0
+Cheddar & Uncured Salami Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2123223/single, 100 g,470.0, 31 g, 11 g, 0.5 g, 60 mg, 810 mg, 31 g, 3 g, 14 g, 20 g,0
+Eggs & Cheddar Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2122248/single, 247 g,460.0, 24 g, 7 g, 0 g, 350 mg, 450 mg, 40 g, 5 g, 21 g, 22 g,0
+PB&J Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2122250/single, 207 g,520.0, 27 g, 8 g, 0 g, 20 mg, 640 mg, 53 g, 4 g, 29 g, 19 g,0
+Cheese & Fruit Protein Box,food,lunch,protein boxes,https://www.starbucks.com/menu/product/2122249/single, 192 g,470.0, 28 g, 16 g, 1 g, 75 mg, 770 mg, 37 g, 3 g, 17 g, 20 g,0
+Madeleines,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121740/single, 51 g,220.0, 11 g, 7 g, 0 g, 65 mg, 120 mg, 28 g, 0 g, 17 g, 3 g,0
+Vanilla Biscotti with Almonds,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121411/single, 42 g,200.0, 9 g, 2.5 g, 0 g, 30 mg, 135 mg, 25 g, 2 g, 10 g, 5 g,0
+Shortbread Cookies,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121410/single, 33 g,170.0, 9 g, 6 g, 0 g, 25 mg, 0 mg, 21 g, 1 g, 8 g, 2 g,0
+Rip van Wafels – Honey & Oats,food,snacks & sweets,biscotti & cookies,https://www.starbucks.com/menu/product/2121699/single, 33 g,130.0, 6 g, 2.5 g, 0 g, 5 mg, 65 mg, 19 g, 0 g, 8 g, 1 g,0
+Salted Almond Chocolate Bites,food,snacks & sweets,chocolates & candy,https://www.starbucks.com/menu/product/2122093/single, 57 g,300.0, 22 g, 7 g, 0 g, 5 mg, 200 mg, 24 g, 4 g, 19 g, 7 g,0
+Dark Chocolate Covered Espresso Beans,food,snacks & sweets,chocolates & candy,https://www.starbucks.com/menu/product/2122119/single, 50 g,260.0, 15 g, 8 g, 0 g, 5 mg, 10 mg, 29 g, 3 g, 22 g, 3 g,0
+Dark Chocolate Peanut Butter Cups,food,snacks & sweets,chocolates & candy,https://www.starbucks.com/menu/product/2121686/single, 40 g,220.0, 14 g, 7 g, 0 g, 0 mg, 120 mg, 21 g, 1 g, 16 g, 4 g,0
+SkinnyDipped Dark Chocolate Cocoa Almonds,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2123823/single, 28 g,170.0, 12 g, 4.5 g, 0 g, 0 mg, 85 mg, 15 g, 6 g, 5 g, 5 g,0
+SkinnyDipped Lemon Bliss Almonds,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2123820/single, 28 g,170.0, 11 g, 4.5 g, 0 g, 0 mg, 75 mg, 17 g, 3 g, 6 g, 4 g,0
 Squirrel Brand® Fruit & Nut,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2121816/single,,,,,,,,,,,,
-Peter Rabbit™ Organics Strawberry Banana,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2121692/single, 113 g,80.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 18 g, 2 g, 17 g, 1 g,N/A
+Peter Rabbit™ Organics Strawberry Banana,food,snacks & sweets,fruit & nuts,https://www.starbucks.com/menu/product/2121692/single, 113 g,80.0, 0 g, 0 g, 0 g, 0 mg, 0 mg, 18 g, 2 g, 17 g, 1 g,0
 Spearmint Gum,food,snacks & sweets,gum & mints,https://www.starbucks.com/menu/product/2123299/single,,,,,,,,,,,,
-Siete Sea Salt Kettle Cooked Potato Chips,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2123819/single, 42.5 g,210.0, 10 g, 1.5 g, 0 g, 0 mg, 180 mg, 27 g, 2 g, 0 g, 0 g,N/A
-Siete Lime Grain Free Tortilla Chips,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2123822/single, 28 g,130.0, 7 g, 1 g, 0 g, 0 mg, 150 mg, 20 g, 3 g, 1 g, 1 g,N/A
-Starbucks Butter Popcorn,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2121689/single, 28 g,150.0, 7 g, 1 g, 0 g, 0 mg, 240 mg, 18 g, 3 g, 1 g, 2 g,N/A
-Perfectly Salted Chips,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2121813/single, 57 g,280.0, 14 g, 1.5 g, 0 g, 0 mg, 240 mg, 34 g, 2 g, 0 g, 5 g,N/A
-Country Archer - Hickory Smoked Turkey Jerkey,food,snacks & sweets,meat & cheese,https://www.starbucks.com/menu/product/2122004/single, 28 g,70.0, 1 g, 0 g, 0 g, 20 mg, 330 mg, 5 g, 0 g, 4 g, 10 g,N/A
+Siete Sea Salt Kettle Cooked Potato Chips,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2123819/single, 42.5 g,210.0, 10 g, 1.5 g, 0 g, 0 mg, 180 mg, 27 g, 2 g, 0 g, 0 g,0
+Siete Lime Grain Free Tortilla Chips,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2123822/single, 28 g,130.0, 7 g, 1 g, 0 g, 0 mg, 150 mg, 20 g, 3 g, 1 g, 1 g,0
+Starbucks Butter Popcorn,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2121689/single, 28 g,150.0, 7 g, 1 g, 0 g, 0 mg, 240 mg, 18 g, 3 g, 1 g, 2 g,0
+Perfectly Salted Chips,food,snacks & sweets,popcorn & chips,https://www.starbucks.com/menu/product/2121813/single, 57 g,280.0, 14 g, 1.5 g, 0 g, 0 mg, 240 mg, 34 g, 2 g, 0 g, 5 g,0
+Country Archer - Hickory Smoked Turkey Jerkey,food,snacks & sweets,meat & cheese,https://www.starbucks.com/menu/product/2122004/single, 28 g,70.0, 1 g, 0 g, 0 g, 20 mg, 330 mg, 5 g, 0 g, 4 g, 10 g,0
 String Cheese,food,snacks & sweets,meat & cheese,https://www.starbucks.com/menu/product/2122033/single,,,,,,,,,,,,
-Perfect Bar® - Dark Chocolate Chip Peanut Butter,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2122867/single, 65 g,320.0, 19 g, 3 g, 0 g, 10 mg, 110 mg, 25 g, 3 g, 18 g, 15 g,N/A
-Perfect Bar® Peanut Butter,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2122631/single, 71 g,340.0, 19 g, 3 g, 0 g, 15 mg, 50 mg, 27 g, 3 g, 19 g, 17 g,N/A
-KIND - Almond Coconut Cashew Chai,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121814/single, 40 g,200.0, 14 g, 4 g, 0 g, 0 mg, 15 mg, 18 g, 3 g, 8 g, 5 g,N/A
-KIND Peanut Butter Dark Chocolate Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121697/single, 40 g,200.0, 14 g, 4 g, 0 g, 0 mg, 20 mg, 17 g, 3 g, 9 g, 7 g,N/A
-KIND® Salted Caramel & Dark Chocolate Nut Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121815/single, 40 g,200.0, 15 g, 3 g, 0 g, 0 mg, 125 mg, 16 g, 7 g, 5 g, 6 g,N/A
-That's It® - Apple + Mango Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121693/single, 35 g,100.0, 0 g, 0 g, 0 g, 0 mg, 25 mg, 27 g, 3 g, 23 g, 0 g,N/A
-That's It® - Apple + Blueberry Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121694/single, 35 g,100.0, 0 g, 0 g, 0 g, 0 mg, 25 mg, 26 g, 4 g, 19 g, 1 g,N/A
-Avocado Spread,food,snacks & sweets,spreads,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,N/A
+Perfect Bar® - Dark Chocolate Chip Peanut Butter,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2122867/single, 65 g,320.0, 19 g, 3 g, 0 g, 10 mg, 110 mg, 25 g, 3 g, 18 g, 15 g,0
+Perfect Bar® Peanut Butter,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2122631/single, 71 g,340.0, 19 g, 3 g, 0 g, 15 mg, 50 mg, 27 g, 3 g, 19 g, 17 g,0
+KIND - Almond Coconut Cashew Chai,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121814/single, 40 g,200.0, 14 g, 4 g, 0 g, 0 mg, 15 mg, 18 g, 3 g, 8 g, 5 g,0
+KIND Peanut Butter Dark Chocolate Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121697/single, 40 g,200.0, 14 g, 4 g, 0 g, 0 mg, 20 mg, 17 g, 3 g, 9 g, 7 g,0
+KIND® Salted Caramel & Dark Chocolate Nut Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121815/single, 40 g,200.0, 15 g, 3 g, 0 g, 0 mg, 125 mg, 16 g, 7 g, 5 g, 6 g,0
+That's It® - Apple + Mango Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121693/single, 35 g,100.0, 0 g, 0 g, 0 g, 0 mg, 25 mg, 27 g, 3 g, 23 g, 0 g,0
+That's It® - Apple + Blueberry Bar,food,snacks & sweets,snack bars,https://www.starbucks.com/menu/product/2121694/single, 35 g,100.0, 0 g, 0 g, 0 g, 0 mg, 25 mg, 26 g, 4 g, 19 g, 1 g,0
+Avocado Spread,food,snacks & sweets,spreads,https://www.starbucks.com/menu/product/2122257/single, 57 g,90.0, 8 g, 1 g, 0 g, 0 mg, 210 mg, 5 g, 4 g, 0 g, 1 g,0

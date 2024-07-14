@@ -27,7 +27,8 @@ def extrair_info_nutricional(num_produto, form_code):
                     'dietary_fiber': nutrition_info.get('additionalFacts', [{}])[3].get('subfacts', [{}])[0].get('displayValue', 'N/A'),
                     'sugars': nutrition_info.get('additionalFacts', [{}])[3].get('subfacts', [{}])[1].get('displayValue', 'N/A'),
                     'protein': nutrition_info.get('additionalFacts', [{}])[4].get('displayValue', 'N/A'),
-                    'caffeine': next((fact.get('displayValue', 'N/A') for fact in nutrition_info.get('additionalFacts', []) if fact.get('displayName') == 'Caffeine'), 'N/A')
+                    'caffeine': next((fact.get('displayValue', 0) for fact in nutrition_info.get('additionalFacts', []) if fact.get('displayName', '') == 'Caffeine'), 0) #verifica se existe o campo 'Caffeine' e retorna o valor, caso contrário, retorna 0, isso serve  para evitar campos nulos na resposta
+
                 }
                 return info
     return None
@@ -35,6 +36,7 @@ def extrair_info_nutricional(num_produto, form_code):
 # Função para extrair informações do menu
 def extrair_informacoes(menu, caminho=[]):
     ignorar_categoria = ['merchandise', 'at home coffee']
+    ignorar_subcategoria = ['bottled beverages']
     resultados = []
     for item in menu:
         novo_caminho = caminho + [item['name'].lower()]  # Convertendo o nome para minúsculas para comparação
@@ -45,6 +47,8 @@ def extrair_informacoes(menu, caminho=[]):
             for produto in item['products']:
                 # Verifica se qualquer parte do novo_caminho contém as categorias a serem ignoradas
                 if any(categoria in novo_caminho for categoria in ignorar_categoria):
+                    continue
+                if any(subcategoria in novo_caminho for subcategoria in ignorar_subcategoria):
                     continue
                 # Garantir que novo_caminho tenha exatamente 3 elementos
                 while len(novo_caminho) < 3:
@@ -89,6 +93,7 @@ if response.status_code == 200:
     
     print(f"Produtos encontrados: {len(resultados)}")
     print(f"{resultados[212]}")  # Exemplo de impressão de um produto específico
-    
+    for produto in resultados:
+        print(produto)
 else:
     print(f"Erro ao acessar o JSON: Status code {response.status_code}")
