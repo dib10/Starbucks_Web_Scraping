@@ -10,7 +10,7 @@ def extrair_info_nutricional(num_produto, form_code):
     response = requests.get(url_json)
     if response.status_code == 200:
         produto_json = response.json()['products'][0]
-        # Verificar a existência de campos antes de acessá-los
+        # Verificar a existência de campos antes de acessar
         if 'sizes' in produto_json and produto_json['sizes']:
             size_info = produto_json['sizes'][0]
             if 'nutrition' in size_info and size_info['nutrition']:
@@ -87,12 +87,9 @@ if response.status_code == 200:
     # Extrair informações começando do nível mais alto
     resultados = extrair_informacoes(data['menus'])
     
-    # Salvar os resultados em um arquivo CSV
+    # Salvar os resultados em um CSV
     df = pd.DataFrame(resultados)
     df.to_csv('starbucks_menu.csv', index=False, encoding='utf-8-sig')
-    
-    print(f"Produtos encontrados: {len(resultados)}")
-    print(f"{resultados[212]}")  # Exemplo de impressão de um produto específico
     for produto in resultados:
         print(produto)
 else:
