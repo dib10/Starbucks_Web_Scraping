@@ -75,6 +75,7 @@ filtered_df = df_clean[df_clean['Subcategory'] == subcategoria]
 
 # Encontrar o item com o valor máximo no critério selecionado
 max_value = filtered_df[criterio].max()
+min_value = filtered_df[criterio].min()
 
 if max_value == 0:
     st.write(f"The items in the category '{subcategoria}' do not have '{criterio.replace('_', ' ')}'.")
@@ -84,10 +85,16 @@ if max_value == 0:
     st.plotly_chart(fig_line)
 else:
     most_value_item = filtered_df[filtered_df[criterio] == max_value]
+    least_value_item = filtered_df[filtered_df[criterio] == min_value]
     
     # Mostrar o item com o valor máximo no critério selecionado
     st.write(f"The item(s) with the highest {criterio.replace('_', ' ')} content in the subcategory '{subcategoria}' is/are:")
     st.write(most_value_item)
+
+    st.write(f"The item(s) with the lowest {criterio.replace('_', ' ')} content in the subcategory '{subcategoria}' is/are:")
+    st.write(least_value_item)
+
+
     
     # gráfico de barras com os itens da subcategoria escolhida
     fig = px.bar(filtered_df, x='Name', y=criterio, title=f'{subcategoria.title()} - {criterio.replace("_", " ").title()} ({unidades[criterio]})',
