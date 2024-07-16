@@ -88,10 +88,10 @@ else:
     least_value_item = filtered_df[filtered_df[criterio] == min_value]
     
     # Mostrar o item com o valor máximo no critério selecionado
-    st.write(f"The item(s) with the highest {criterio.replace('_', ' ')} content in the subcategory '{subcategoria}' is/are:")
+    st.write(f"📈 The item(s) with the highest {criterio.replace('_', ' ')} content in the subcategory '{subcategoria}' is/are:")
     st.write(most_value_item)
 
-    st.write(f"The item(s) with the lowest {criterio.replace('_', ' ')} content in the subcategory '{subcategoria}' is/are:")
+    st.write(f"📉 The item(s) with the lowest {criterio.replace('_', ' ')} content in the subcategory '{subcategoria}' is/are:")
     st.write(least_value_item)
 
 
