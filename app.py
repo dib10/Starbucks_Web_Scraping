@@ -77,6 +77,7 @@ filtered_df = df_clean[df_clean['Subcategory'] == subcategoria]
 max_value = filtered_df[criterio].max()
 min_value = filtered_df[criterio].min()
 
+#checando se o valor máximo é 0, caso seja, exibe um gráfico de linha
 if max_value == 0:
     st.write(f"The items in the category '{subcategoria}' do not have '{criterio.replace('_', ' ')}'.")
     # nesse caso, exibe gráfico de linha
@@ -104,9 +105,11 @@ else:
 
     st.plotly_chart(fig)
 
+
+st.markdown("<hr>", unsafe_allow_html=True)
 st.write('- 2,000 calories a day is used for general nutrition advice, but calorie needs vary.')
 st.write('- Caffeine is an approximate value.')
 st.write('- Nutrition information is calculated based on our standard recipes. Because our products may be customized, exact information may vary.')
-st.write("- Items without nutritional information or with missing data were not included in the chart, but were included in the table.")
-st.write("- Items from the 'Bottled Beverages' subcategory were not included in the table.")
-
+st.write("- Items without nutritional information or with missing data were not included in the chart, but were included in the spreadsheet.")
+st.write("- Items from the 'Bottled Beverages' subcategory were not included in the spreadsheet.")
+st.write('- The beverage sizes selected to collect nutritional information were based on the smallest size offered for customization. Please note that there are various beverage sizes available. For more detailed information, refer to the *serving_size field in the spreadsheet above.')
